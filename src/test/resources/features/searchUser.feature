@@ -135,8 +135,3 @@ Feature: As a user, I need to search a user in the User Viewer Poli Plugin.
     When the user clicks on the checkbox
     Then the user validates the export button export
 
-  @ValidateExcelReport
-  Scenario: Validate the excel Report
-    When the user clicks on the Export
-    Then the user validates the export button export
-

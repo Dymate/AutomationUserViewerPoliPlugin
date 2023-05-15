@@ -254,4 +254,5 @@ public class SearchUserStepDefinitions {
                 ClickButtonExport.clickButtonExport()
         );
     }
+
 }
