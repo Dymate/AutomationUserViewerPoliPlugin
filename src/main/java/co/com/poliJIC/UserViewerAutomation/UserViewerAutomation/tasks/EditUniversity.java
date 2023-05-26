@@ -33,7 +33,9 @@ public class EditUniversity implements Task {
                 Click.on(BTN_UPDATE),
                 WaitUntil.the(BTN_DETAILS, WebElementStateMatchers.isVisible())
                         .forNoMoreThan(70).seconds(),
-                Click.on(BTN_DETAILS)
+                Click.on(BTN_DETAILS),
+                WaitUntil.the(BTN_PENCIL, WebElementStateMatchers.isVisible())
+                        .forNoMoreThan(70).seconds()
         );
         actor.remember("oldUniversity", university);
     }

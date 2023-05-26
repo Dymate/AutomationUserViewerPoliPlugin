@@ -16,7 +16,7 @@ public class ModalDetails {
 
     public static final Target DIV_DETAILS =
             Target.the("Key details for modal")
-                    .locatedBy("(//div[@class=\"col-sm-6\"])[2]/div[{0}]");
+                    .locatedBy("((//div[@class=\"col-sm-6\"])[2]/div)[{0}]");
 
     public static final Target BTN_PENCIL =
             Target.the("Button for edit")
@@ -28,7 +28,7 @@ public class ModalDetails {
 
     public static final Target BTN_UPDATE =
             Target.the("Key details for modal")
-                    .locatedBy("(//button[@class=\"btn btn-success\"])[1]");
+                    .locatedBy("(//button[@class=\"btn btn-success\"])[2]");
 
     public static final Target DIV_UNIVERSITY =
             Target.the("Key details for modal")
@@ -44,7 +44,7 @@ public class ModalDetails {
 
     public static final Target BTN_UPDATE_2 =
             Target.the("Key details for modal")
-                    .locatedBy("(//button[@class=\"btn btn-success\"])[2]");
+                    .locatedBy("(//button[@class=\"btn btn-success\"])[3]");
 
     public static final Target DIV_ACADEMIC_DEGREE =
             Target.the("Key details for modal")
@@ -60,7 +60,7 @@ public class ModalDetails {
 
     public static final Target BTN_UPDATE_3 =
             Target.the("Key details for modal")
-                    .locatedBy("(//button[@class=\"btn btn-success\"])[3]");
+                    .locatedBy("(//button[@class=\"btn btn-success\"])[4]");
 
     public static final Target DIV_BIOGRAPHY =
             Target.the("Key details for modal")
@@ -68,6 +68,6 @@ public class ModalDetails {
 
     public static final Target BTN_VIEWER_ACTIONS =
             Target.the("Key details for modal")
-                    .locatedBy("(//button[contains(text(),  'Actividad Como evaluador')])[1]");
+                    .locatedBy("(//button[contains(text(),  'Actividad Como Evaluador')])[1]");
 
 }

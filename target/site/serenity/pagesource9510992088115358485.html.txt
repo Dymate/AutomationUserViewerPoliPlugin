@@ -1,0 +1,2019 @@
+<html lang="es-ES" xml:lang="es-ES"><head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>
+		
+							| Revista Politécnica
+			</title>
+
+	
+<meta name="generator" content="Open Journal Systems 3.3.0.14">
+<link rel="alternate" type="application/atom+xml" href="http://localhost/index.php/pol/gateway/plugin/AnnouncementFeedGatewayPlugin/atom">
+<link rel="alternate" type="application/rdf+xml" href="http://localhost/index.php/pol/gateway/plugin/AnnouncementFeedGatewayPlugin/rss">
+<link rel="alternate" type="application/rss+xml" href="http://localhost/index.php/pol/gateway/plugin/AnnouncementFeedGatewayPlugin/rss2">
+	<link rel="stylesheet" href="http://localhost/index.php/pol/$$$call$$$/page/page/css?name=stylesheet" type="text/css"><link rel="stylesheet" href="http://localhost/index.php/pol/$$$call$$$/page/page/css?name=font" type="text/css"><link rel="stylesheet" href="http://localhost/lib/pkp/styles/fontawesome/fontawesome.css?v=3.3.0.14" type="text/css"><link rel="stylesheet" href="//cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css?v=3.3.0.14" type="text/css"><link rel="stylesheet" href="//cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css?v=3.3.0.14" type="text/css"><link rel="stylesheet" href="//select2.github.io/select2/select2-3.4.1/select2.css?v=3.3.0.14" type="text/css"><link rel="stylesheet" href="//fk.github.io/select2-bootstrap-css/css/select2-bootstrap.css?v=3.3.0.14" type="text/css"><link rel="stylesheet" href="http://localhost/plugins/generic/userViewerPoliPlugin/css/userViewerPluginGeneralStyles.css?v=3.3.0.14" type="text/css"><link rel="stylesheet" href="http://localhost/plugins/generic/userViewerPoliPlugin/css/usersListTable.css?v=3.3.0.14" type="text/css">
+<style>.swal2-popup.swal2-toast{box-sizing:border-box;grid-column:1/4 !important;grid-row:1/4 !important;grid-template-columns:min-content auto min-content;padding:1em;overflow-y:hidden;background:#fff;box-shadow:0 0 1px rgba(0,0,0,.075),0 1px 2px rgba(0,0,0,.075),1px 2px 4px rgba(0,0,0,.075),1px 3px 8px rgba(0,0,0,.075),2px 4px 16px rgba(0,0,0,.075);pointer-events:all}.swal2-popup.swal2-toast>*{grid-column:2}.swal2-popup.swal2-toast .swal2-title{margin:.5em 1em;padding:0;font-size:1em;text-align:initial}.swal2-popup.swal2-toast .swal2-loading{justify-content:center}.swal2-popup.swal2-toast .swal2-input{height:2em;margin:.5em;font-size:1em}.swal2-popup.swal2-toast .swal2-validation-message{font-size:1em}.swal2-popup.swal2-toast .swal2-footer{margin:.5em 0 0;padding:.5em 0 0;font-size:.8em}.swal2-popup.swal2-toast .swal2-close{grid-column:3/3;grid-row:1/99;align-self:center;width:.8em;height:.8em;margin:0;font-size:2em}.swal2-popup.swal2-toast .swal2-html-container{margin:.5em 1em;padding:0;overflow:initial;font-size:1em;text-align:initial}.swal2-popup.swal2-toast .swal2-html-container:empty{padding:0}.swal2-popup.swal2-toast .swal2-loader{grid-column:1;grid-row:1/99;align-self:center;width:2em;height:2em;margin:.25em}.swal2-popup.swal2-toast .swal2-icon{grid-column:1;grid-row:1/99;align-self:center;width:2em;min-width:2em;height:2em;margin:0 .5em 0 0}.swal2-popup.swal2-toast .swal2-icon .swal2-icon-content{display:flex;align-items:center;font-size:1.8em;font-weight:bold}.swal2-popup.swal2-toast .swal2-icon.swal2-success .swal2-success-ring{width:2em;height:2em}.swal2-popup.swal2-toast .swal2-icon.swal2-error [class^=swal2-x-mark-line]{top:.875em;width:1.375em}.swal2-popup.swal2-toast .swal2-icon.swal2-error [class^=swal2-x-mark-line][class$=left]{left:.3125em}.swal2-popup.swal2-toast .swal2-icon.swal2-error [class^=swal2-x-mark-line][class$=right]{right:.3125em}.swal2-popup.swal2-toast .swal2-actions{justify-content:flex-start;height:auto;margin:0;margin-top:.5em;padding:0 .5em}.swal2-popup.swal2-toast .swal2-styled{margin:.25em .5em;padding:.4em .6em;font-size:1em}.swal2-popup.swal2-toast .swal2-success{border-color:#a5dc86}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-circular-line]{position:absolute;width:1.6em;height:3em;transform:rotate(45deg);border-radius:50%}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-circular-line][class$=left]{top:-0.8em;left:-0.5em;transform:rotate(-45deg);transform-origin:2em 2em;border-radius:4em 0 0 4em}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-circular-line][class$=right]{top:-0.25em;left:.9375em;transform-origin:0 1.5em;border-radius:0 4em 4em 0}.swal2-popup.swal2-toast .swal2-success .swal2-success-ring{width:2em;height:2em}.swal2-popup.swal2-toast .swal2-success .swal2-success-fix{top:0;left:.4375em;width:.4375em;height:2.6875em}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-line]{height:.3125em}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-line][class$=tip]{top:1.125em;left:.1875em;width:.75em}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-line][class$=long]{top:.9375em;right:.1875em;width:1.375em}.swal2-popup.swal2-toast .swal2-success.swal2-icon-show .swal2-success-line-tip{animation:swal2-toast-animate-success-line-tip .75s}.swal2-popup.swal2-toast .swal2-success.swal2-icon-show .swal2-success-line-long{animation:swal2-toast-animate-success-line-long .75s}.swal2-popup.swal2-toast.swal2-show{animation:swal2-toast-show .5s}.swal2-popup.swal2-toast.swal2-hide{animation:swal2-toast-hide .1s forwards}.swal2-container{display:grid;position:fixed;z-index:1060;inset:0;box-sizing:border-box;grid-template-areas:"top-start     top            top-end" "center-start  center         center-end" "bottom-start  bottom-center  bottom-end";grid-template-rows:minmax(min-content, auto) minmax(min-content, auto) minmax(min-content, auto);height:100%;padding:.625em;overflow-x:hidden;transition:background-color .1s;-webkit-overflow-scrolling:touch}.swal2-container.swal2-backdrop-show,.swal2-container.swal2-noanimation{background:rgba(0,0,0,.4)}.swal2-container.swal2-backdrop-hide{background:rgba(0,0,0,0) !important}.swal2-container.swal2-top-start,.swal2-container.swal2-center-start,.swal2-container.swal2-bottom-start{grid-template-columns:minmax(0, 1fr) auto auto}.swal2-container.swal2-top,.swal2-container.swal2-center,.swal2-container.swal2-bottom{grid-template-columns:auto minmax(0, 1fr) auto}.swal2-container.swal2-top-end,.swal2-container.swal2-center-end,.swal2-container.swal2-bottom-end{grid-template-columns:auto auto minmax(0, 1fr)}.swal2-container.swal2-top-start>.swal2-popup{align-self:start}.swal2-container.swal2-top>.swal2-popup{grid-column:2;align-self:start;justify-self:center}.swal2-container.swal2-top-end>.swal2-popup,.swal2-container.swal2-top-right>.swal2-popup{grid-column:3;align-self:start;justify-self:end}.swal2-container.swal2-center-start>.swal2-popup,.swal2-container.swal2-center-left>.swal2-popup{grid-row:2;align-self:center}.swal2-container.swal2-center>.swal2-popup{grid-column:2;grid-row:2;align-self:center;justify-self:center}.swal2-container.swal2-center-end>.swal2-popup,.swal2-container.swal2-center-right>.swal2-popup{grid-column:3;grid-row:2;align-self:center;justify-self:end}.swal2-container.swal2-bottom-start>.swal2-popup,.swal2-container.swal2-bottom-left>.swal2-popup{grid-column:1;grid-row:3;align-self:end}.swal2-container.swal2-bottom>.swal2-popup{grid-column:2;grid-row:3;justify-self:center;align-self:end}.swal2-container.swal2-bottom-end>.swal2-popup,.swal2-container.swal2-bottom-right>.swal2-popup{grid-column:3;grid-row:3;align-self:end;justify-self:end}.swal2-container.swal2-grow-row>.swal2-popup,.swal2-container.swal2-grow-fullscreen>.swal2-popup{grid-column:1/4;width:100%}.swal2-container.swal2-grow-column>.swal2-popup,.swal2-container.swal2-grow-fullscreen>.swal2-popup{grid-row:1/4;align-self:stretch}.swal2-container.swal2-no-transition{transition:none !important}.swal2-popup{display:none;position:relative;box-sizing:border-box;grid-template-columns:minmax(0, 100%);width:32em;max-width:100%;padding:0 0 1.25em;border:none;border-radius:5px;background:#fff;color:#545454;font-family:inherit;font-size:1rem}.swal2-popup:focus{outline:none}.swal2-popup.swal2-loading{overflow-y:hidden}.swal2-title{position:relative;max-width:100%;margin:0;padding:.8em 1em 0;color:inherit;font-size:1.875em;font-weight:600;text-align:center;text-transform:none;word-wrap:break-word}.swal2-actions{display:flex;z-index:1;box-sizing:border-box;flex-wrap:wrap;align-items:center;justify-content:center;width:auto;margin:1.25em auto 0;padding:0}.swal2-actions:not(.swal2-loading) .swal2-styled[disabled]{opacity:.4}.swal2-actions:not(.swal2-loading) .swal2-styled:hover{background-image:linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1))}.swal2-actions:not(.swal2-loading) .swal2-styled:active{background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2))}.swal2-loader{display:none;align-items:center;justify-content:center;width:2.2em;height:2.2em;margin:0 1.875em;animation:swal2-rotate-loading 1.5s linear 0s infinite normal;border-width:.25em;border-style:solid;border-radius:100%;border-color:#2778c4 rgba(0,0,0,0) #2778c4 rgba(0,0,0,0)}.swal2-styled{margin:.3125em;padding:.625em 1.1em;transition:box-shadow .1s;box-shadow:0 0 0 3px rgba(0,0,0,0);font-weight:500}.swal2-styled:not([disabled]){cursor:pointer}.swal2-styled.swal2-confirm{border:0;border-radius:.25em;background:initial;background-color:#7066e0;color:#fff;font-size:1em}.swal2-styled.swal2-confirm:focus{box-shadow:0 0 0 3px rgba(112,102,224,.5)}.swal2-styled.swal2-deny{border:0;border-radius:.25em;background:initial;background-color:#dc3741;color:#fff;font-size:1em}.swal2-styled.swal2-deny:focus{box-shadow:0 0 0 3px rgba(220,55,65,.5)}.swal2-styled.swal2-cancel{border:0;border-radius:.25em;background:initial;background-color:#6e7881;color:#fff;font-size:1em}.swal2-styled.swal2-cancel:focus{box-shadow:0 0 0 3px rgba(110,120,129,.5)}.swal2-styled.swal2-default-outline:focus{box-shadow:0 0 0 3px rgba(100,150,200,.5)}.swal2-styled:focus{outline:none}.swal2-styled::-moz-focus-inner{border:0}.swal2-footer{justify-content:center;margin:1em 0 0;padding:1em 1em 0;border-top:1px solid #eee;color:inherit;font-size:1em}.swal2-timer-progress-bar-container{position:absolute;right:0;bottom:0;left:0;grid-column:auto !important;overflow:hidden;border-bottom-right-radius:5px;border-bottom-left-radius:5px}.swal2-timer-progress-bar{width:100%;height:.25em;background:rgba(0,0,0,.2)}.swal2-image{max-width:100%;margin:2em auto 1em}.swal2-close{z-index:2;align-items:center;justify-content:center;width:1.2em;height:1.2em;margin-top:0;margin-right:0;margin-bottom:-1.2em;padding:0;overflow:hidden;transition:color .1s,box-shadow .1s;border:none;border-radius:5px;background:rgba(0,0,0,0);color:#ccc;font-family:monospace;font-size:2.5em;cursor:pointer;justify-self:end}.swal2-close:hover{transform:none;background:rgba(0,0,0,0);color:#f27474}.swal2-close:focus{outline:none;box-shadow:inset 0 0 0 3px rgba(100,150,200,.5)}.swal2-close::-moz-focus-inner{border:0}.swal2-html-container{z-index:1;justify-content:center;margin:1em 1.6em .3em;padding:0;overflow:auto;color:inherit;font-size:1.125em;font-weight:normal;line-height:normal;text-align:center;word-wrap:break-word;word-break:break-word}.swal2-input,.swal2-file,.swal2-textarea,.swal2-select,.swal2-radio,.swal2-checkbox{margin:1em 2em 3px}.swal2-input,.swal2-file,.swal2-textarea{box-sizing:border-box;width:auto;transition:border-color .1s,box-shadow .1s;border:1px solid #d9d9d9;border-radius:.1875em;background:rgba(0,0,0,0);box-shadow:inset 0 1px 1px rgba(0,0,0,.06),0 0 0 3px rgba(0,0,0,0);color:inherit;font-size:1.125em}.swal2-input.swal2-inputerror,.swal2-file.swal2-inputerror,.swal2-textarea.swal2-inputerror{border-color:#f27474 !important;box-shadow:0 0 2px #f27474 !important}.swal2-input:focus,.swal2-file:focus,.swal2-textarea:focus{border:1px solid #b4dbed;outline:none;box-shadow:inset 0 1px 1px rgba(0,0,0,.06),0 0 0 3px rgba(100,150,200,.5)}.swal2-input::placeholder,.swal2-file::placeholder,.swal2-textarea::placeholder{color:#ccc}.swal2-range{margin:1em 2em 3px;background:#fff}.swal2-range input{width:80%}.swal2-range output{width:20%;color:inherit;font-weight:600;text-align:center}.swal2-range input,.swal2-range output{height:2.625em;padding:0;font-size:1.125em;line-height:2.625em}.swal2-input{height:2.625em;padding:0 .75em}.swal2-file{width:75%;margin-right:auto;margin-left:auto;background:rgba(0,0,0,0);font-size:1.125em}.swal2-textarea{height:6.75em;padding:.75em}.swal2-select{min-width:50%;max-width:100%;padding:.375em .625em;background:rgba(0,0,0,0);color:inherit;font-size:1.125em}.swal2-radio,.swal2-checkbox{align-items:center;justify-content:center;background:#fff;color:inherit}.swal2-radio label,.swal2-checkbox label{margin:0 .6em;font-size:1.125em}.swal2-radio input,.swal2-checkbox input{flex-shrink:0;margin:0 .4em}.swal2-input-label{display:flex;justify-content:center;margin:1em auto 0}.swal2-validation-message{align-items:center;justify-content:center;margin:1em 0 0;padding:.625em;overflow:hidden;background:#f0f0f0;color:#666;font-size:1em;font-weight:300}.swal2-validation-message::before{content:"!";display:inline-block;width:1.5em;min-width:1.5em;height:1.5em;margin:0 .625em;border-radius:50%;background-color:#f27474;color:#fff;font-weight:600;line-height:1.5em;text-align:center}.swal2-icon{position:relative;box-sizing:content-box;justify-content:center;width:5em;height:5em;margin:2.5em auto .6em;border:0.25em solid rgba(0,0,0,0);border-radius:50%;border-color:#000;font-family:inherit;line-height:5em;cursor:default;user-select:none}.swal2-icon .swal2-icon-content{display:flex;align-items:center;font-size:3.75em}.swal2-icon.swal2-error{border-color:#f27474;color:#f27474}.swal2-icon.swal2-error .swal2-x-mark{position:relative;flex-grow:1}.swal2-icon.swal2-error [class^=swal2-x-mark-line]{display:block;position:absolute;top:2.3125em;width:2.9375em;height:.3125em;border-radius:.125em;background-color:#f27474}.swal2-icon.swal2-error [class^=swal2-x-mark-line][class$=left]{left:1.0625em;transform:rotate(45deg)}.swal2-icon.swal2-error [class^=swal2-x-mark-line][class$=right]{right:1em;transform:rotate(-45deg)}.swal2-icon.swal2-error.swal2-icon-show{animation:swal2-animate-error-icon .5s}.swal2-icon.swal2-error.swal2-icon-show .swal2-x-mark{animation:swal2-animate-error-x-mark .5s}.swal2-icon.swal2-warning{border-color:#facea8;color:#f8bb86}.swal2-icon.swal2-warning.swal2-icon-show{animation:swal2-animate-error-icon .5s}.swal2-icon.swal2-warning.swal2-icon-show .swal2-icon-content{animation:swal2-animate-i-mark .5s}.swal2-icon.swal2-info{border-color:#9de0f6;color:#3fc3ee}.swal2-icon.swal2-info.swal2-icon-show{animation:swal2-animate-error-icon .5s}.swal2-icon.swal2-info.swal2-icon-show .swal2-icon-content{animation:swal2-animate-i-mark .8s}.swal2-icon.swal2-question{border-color:#c9dae1;color:#87adbd}.swal2-icon.swal2-question.swal2-icon-show{animation:swal2-animate-error-icon .5s}.swal2-icon.swal2-question.swal2-icon-show .swal2-icon-content{animation:swal2-animate-question-mark .8s}.swal2-icon.swal2-success{border-color:#a5dc86;color:#a5dc86}.swal2-icon.swal2-success [class^=swal2-success-circular-line]{position:absolute;width:3.75em;height:7.5em;transform:rotate(45deg);border-radius:50%}.swal2-icon.swal2-success [class^=swal2-success-circular-line][class$=left]{top:-0.4375em;left:-2.0635em;transform:rotate(-45deg);transform-origin:3.75em 3.75em;border-radius:7.5em 0 0 7.5em}.swal2-icon.swal2-success [class^=swal2-success-circular-line][class$=right]{top:-0.6875em;left:1.875em;transform:rotate(-45deg);transform-origin:0 3.75em;border-radius:0 7.5em 7.5em 0}.swal2-icon.swal2-success .swal2-success-ring{position:absolute;z-index:2;top:-0.25em;left:-0.25em;box-sizing:content-box;width:100%;height:100%;border:.25em solid rgba(165,220,134,.3);border-radius:50%}.swal2-icon.swal2-success .swal2-success-fix{position:absolute;z-index:1;top:.5em;left:1.625em;width:.4375em;height:5.625em;transform:rotate(-45deg)}.swal2-icon.swal2-success [class^=swal2-success-line]{display:block;position:absolute;z-index:2;height:.3125em;border-radius:.125em;background-color:#a5dc86}.swal2-icon.swal2-success [class^=swal2-success-line][class$=tip]{top:2.875em;left:.8125em;width:1.5625em;transform:rotate(45deg)}.swal2-icon.swal2-success [class^=swal2-success-line][class$=long]{top:2.375em;right:.5em;width:2.9375em;transform:rotate(-45deg)}.swal2-icon.swal2-success.swal2-icon-show .swal2-success-line-tip{animation:swal2-animate-success-line-tip .75s}.swal2-icon.swal2-success.swal2-icon-show .swal2-success-line-long{animation:swal2-animate-success-line-long .75s}.swal2-icon.swal2-success.swal2-icon-show .swal2-success-circular-line-right{animation:swal2-rotate-success-circular-line 4.25s ease-in}.swal2-progress-steps{flex-wrap:wrap;align-items:center;max-width:100%;margin:1.25em auto;padding:0;background:rgba(0,0,0,0);font-weight:600}.swal2-progress-steps li{display:inline-block;position:relative}.swal2-progress-steps .swal2-progress-step{z-index:20;flex-shrink:0;width:2em;height:2em;border-radius:2em;background:#2778c4;color:#fff;line-height:2em;text-align:center}.swal2-progress-steps .swal2-progress-step.swal2-active-progress-step{background:#2778c4}.swal2-progress-steps .swal2-progress-step.swal2-active-progress-step~.swal2-progress-step{background:#add8e6;color:#fff}.swal2-progress-steps .swal2-progress-step.swal2-active-progress-step~.swal2-progress-step-line{background:#add8e6}.swal2-progress-steps .swal2-progress-step-line{z-index:10;flex-shrink:0;width:2.5em;height:.4em;margin:0 -1px;background:#2778c4}[class^=swal2]{-webkit-tap-highlight-color:rgba(0,0,0,0)}.swal2-show{animation:swal2-show .3s}.swal2-hide{animation:swal2-hide .15s forwards}.swal2-noanimation{transition:none}.swal2-scrollbar-measure{position:absolute;top:-9999px;width:50px;height:50px;overflow:scroll}.swal2-rtl .swal2-close{margin-right:initial;margin-left:0}.swal2-rtl .swal2-timer-progress-bar{right:0;left:auto}@keyframes swal2-toast-show{0%{transform:translateY(-0.625em) rotateZ(2deg)}33%{transform:translateY(0) rotateZ(-2deg)}66%{transform:translateY(0.3125em) rotateZ(2deg)}100%{transform:translateY(0) rotateZ(0deg)}}@keyframes swal2-toast-hide{100%{transform:rotateZ(1deg);opacity:0}}@keyframes swal2-toast-animate-success-line-tip{0%{top:.5625em;left:.0625em;width:0}54%{top:.125em;left:.125em;width:0}70%{top:.625em;left:-0.25em;width:1.625em}84%{top:1.0625em;left:.75em;width:.5em}100%{top:1.125em;left:.1875em;width:.75em}}@keyframes swal2-toast-animate-success-line-long{0%{top:1.625em;right:1.375em;width:0}65%{top:1.25em;right:.9375em;width:0}84%{top:.9375em;right:0;width:1.125em}100%{top:.9375em;right:.1875em;width:1.375em}}@keyframes swal2-show{0%{transform:scale(0.7)}45%{transform:scale(1.05)}80%{transform:scale(0.95)}100%{transform:scale(1)}}@keyframes swal2-hide{0%{transform:scale(1);opacity:1}100%{transform:scale(0.5);opacity:0}}@keyframes swal2-animate-success-line-tip{0%{top:1.1875em;left:.0625em;width:0}54%{top:1.0625em;left:.125em;width:0}70%{top:2.1875em;left:-0.375em;width:3.125em}84%{top:3em;left:1.3125em;width:1.0625em}100%{top:2.8125em;left:.8125em;width:1.5625em}}@keyframes swal2-animate-success-line-long{0%{top:3.375em;right:2.875em;width:0}65%{top:3.375em;right:2.875em;width:0}84%{top:2.1875em;right:0;width:3.4375em}100%{top:2.375em;right:.5em;width:2.9375em}}@keyframes swal2-rotate-success-circular-line{0%{transform:rotate(-45deg)}5%{transform:rotate(-45deg)}12%{transform:rotate(-405deg)}100%{transform:rotate(-405deg)}}@keyframes swal2-animate-error-x-mark{0%{margin-top:1.625em;transform:scale(0.4);opacity:0}50%{margin-top:1.625em;transform:scale(0.4);opacity:0}80%{margin-top:-0.375em;transform:scale(1.15)}100%{margin-top:0;transform:scale(1);opacity:1}}@keyframes swal2-animate-error-icon{0%{transform:rotateX(100deg);opacity:0}100%{transform:rotateX(0deg);opacity:1}}@keyframes swal2-rotate-loading{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}@keyframes swal2-animate-question-mark{0%{transform:rotateY(-360deg)}100%{transform:rotateY(0)}}@keyframes swal2-animate-i-mark{0%{transform:rotateZ(45deg);opacity:0}25%{transform:rotateZ(-25deg);opacity:.4}50%{transform:rotateZ(15deg);opacity:.8}75%{transform:rotateZ(-5deg);opacity:1}100%{transform:rotateX(0);opacity:1}}body.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown){overflow:hidden}body.swal2-height-auto{height:auto !important}body.swal2-no-backdrop .swal2-container{background-color:rgba(0,0,0,0) !important;pointer-events:none}body.swal2-no-backdrop .swal2-container .swal2-popup{pointer-events:all}body.swal2-no-backdrop .swal2-container .swal2-modal{box-shadow:0 0 10px rgba(0,0,0,.4)}@media print{body.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown){overflow-y:scroll !important}body.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown)>[aria-hidden=true]{display:none}body.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown) .swal2-container{position:static !important}}body.swal2-toast-shown .swal2-container{box-sizing:border-box;width:360px;max-width:100%;background-color:rgba(0,0,0,0);pointer-events:none}body.swal2-toast-shown .swal2-container.swal2-top{inset:0 auto auto 50%;transform:translateX(-50%)}body.swal2-toast-shown .swal2-container.swal2-top-end,body.swal2-toast-shown .swal2-container.swal2-top-right{inset:0 0 auto auto}body.swal2-toast-shown .swal2-container.swal2-top-start,body.swal2-toast-shown .swal2-container.swal2-top-left{inset:0 auto auto 0}body.swal2-toast-shown .swal2-container.swal2-center-start,body.swal2-toast-shown .swal2-container.swal2-center-left{inset:50% auto auto 0;transform:translateY(-50%)}body.swal2-toast-shown .swal2-container.swal2-center{inset:50% auto auto 50%;transform:translate(-50%, -50%)}body.swal2-toast-shown .swal2-container.swal2-center-end,body.swal2-toast-shown .swal2-container.swal2-center-right{inset:50% 0 auto auto;transform:translateY(-50%)}body.swal2-toast-shown .swal2-container.swal2-bottom-start,body.swal2-toast-shown .swal2-container.swal2-bottom-left{inset:auto auto 0 0}body.swal2-toast-shown .swal2-container.swal2-bottom{inset:auto auto 0 50%;transform:translateX(-50%)}body.swal2-toast-shown .swal2-container.swal2-bottom-end,body.swal2-toast-shown .swal2-container.swal2-bottom-right{inset:auto 0 0 auto}</style></head>
+<body class="pkp_page_userviewerpoliplugin-list pkp_op_index modal-open" dir="ltr" style="padding-right: 17px;">
+
+	<div class="pkp_structure_page">
+
+				<header class="pkp_structure_head" id="headerNavigationContainer" role="banner">
+						 <nav class="cmp_skip_to_content" aria-label="Salta a los enlaces de contenido">
+	<a href="#pkp_content_main">Ir al contenido principal</a>
+	<a href="#siteNav">Ir al menú de navegación principal</a>
+		<a href="#pkp_content_footer">Ir al pie de página del sitio</a>
+</nav>
+
+			<div class="pkp_head_wrapper">
+
+				<div class="pkp_site_name_wrapper">
+															<div class="pkp_site_name">
+																<a href="						http://localhost/index.php/pol/index
+					" class="is_text">Revista Politécnica</a>
+										</div>
+				</div>
+
+				
+				<nav class="pkp_site_nav_menu" aria-label="Navegación del sitio">
+					<a id="siteNav"></a>
+					<div class="pkp_navigation_primary_row">
+						<div class="pkp_navigation_primary_wrapper">
+																				<ul id="navigationPrimary" class="pkp_navigation_primary pkp_nav_list">
+								<li class="">
+				<a href="http://localhost/index.php/pol/issue/current">
+					Actual
+				</a>
+							</li>
+								<li class="">
+				<a href="http://localhost/index.php/pol/issue/archive">
+					Archivos
+				</a>
+							</li>
+								<li class="">
+				<a href="http://localhost/index.php/pol/announcement">
+					Avisos
+				</a>
+							</li>
+								<li class="">
+				<a href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="pkpDropdown0">
+					Acerca de
+				</a>
+									<ul class="dropdown-menu" aria-labelledby="pkpDropdown0">
+																					<li class="">
+									<a href="http://localhost/index.php/pol/about">
+										Sobre la revista
+									</a>
+								</li>
+																												<li class="">
+									<a href="http://localhost/index.php/pol/about/editorialPolicies">
+										Políticas editoriales
+									</a>
+								</li>
+																												<li class="">
+									<a href="http://localhost/index.php/pol/about/submissions">
+										Envíos
+									</a>
+								</li>
+																												<li class="">
+									<a href="http://localhost/index.php/pol/about/editorialTeam">
+										Equipo editorial
+									</a>
+								</li>
+																												<li class="">
+									<a href="http://localhost/index.php/pol/about/privacy">
+										Declaración de privacidad
+									</a>
+								</li>
+																												<li class="">
+									<a href="http://localhost/index.php/pol/about/contact">
+										Contacto
+									</a>
+								</li>
+																		</ul>
+							</li>
+			<li class=""><a href="http://localhost/index.php/pol/summariespoliplugin-history">Summaries</a></li><li class=""><a href="http://localhost/index.php/pol/userviewerpoliplugin-list">Users</a></li></ul>
+
+				
+
+																						<div class="pkp_navigation_search_wrapper">
+									<a href="http://localhost/index.php/pol/search" class="pkp_search pkp_search_desktop">
+										<span class="fa fa-search" aria-hidden="true"></span>
+										Buscar
+									</a>
+								</div>
+													</div>
+					</div>
+					<div class="pkp_navigation_user_wrapper" id="navigationUserWrapper">
+							<ul id="navigationUser" class="pkp_navigation_user pkp_nav_list">
+																						<li class="profile">
+				<a href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="pkpDropdown1">
+					admin
+<span class="task_count">
+	3
+</span>
+
+				</a>
+									<ul class="dropdown-menu" aria-labelledby="pkpDropdown1">
+																					<li class="profile">
+									<a href="http://localhost/index.php/pol/submissions">
+										Panel de control
+<span class="task_count">
+	3
+</span>
+
+									</a>
+								</li>
+																												<li class="profile">
+									<a href="http://localhost/index.php/pol/user/profile">
+										Ver perfil
+									</a>
+								</li>
+																												<li class="profile">
+									<a href="http://localhost/index.php/index/admin/index">
+										Administración
+									</a>
+								</li>
+																												<li class="profile">
+									<a href="http://localhost/index.php/pol/login/signOut">
+										Salir
+									</a>
+								</li>
+																		</ul>
+							</li>
+			</ul>
+
+					</div>
+				</nav>
+			</div><!-- .pkp_head_wrapper -->
+		</header><!-- .pkp_structure_head -->
+
+						<div class="pkp_structure_content has_sidebar">
+			<div class="pkp_structure_main" role="main">
+				<a id="pkp_content_main"></a>
+
+
+
+<!--Vista principal del plugin, muestra la tabla con sus respectivas funciones -->
+<div class="panel panel-default" style="width: 100%; ">
+    <div class="panel-heading project-title">Módulo de gestión para la búsqueda de usuarios</div>
+    <form method="POST">
+    </form>
+    <div class="panel-body">
+                    <div class="table-responsive">
+                <button class="btn btn-warning" type="submit" value="Exportar" id="export" disabled=""><span class="glyphicon glyphicon-export"></span> Exportar</button><button class="btn btn-danger" type="button" value="Borrar Selección" id="deleteSelection" style="padding: 5px; margin: 5px; width:140px;" onclick="clearCheckboxValues();" disabled=""> <span class="glyphicon glyphicon-trash"></span> Borrar Selección</button><button class="btn btn-primary" type="submit" value="Exportar Todo" style="margin: 5px;"> <span class="glyphicon glyphicon-upload"></span> Exportar Todo</button><button class="btn btn-success" type="button" data-toggle="modal" data-target="#chartModal">
+                        <span class="glyphicon glyphicon-eye-open"></span> Visualizar
+                        </button>&nbsp;
+                        <div class="modal fade" id="chartModal" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
+                            <div class="modal-dialog">
+                                <div class="modal-content ">
+                                    <!-- Encabezado de la ventana modal -->
+                                    <div class="modal-header">
+
+                                        <div class="row">
+                                            <div class="modal-title">
+                                                <div class="h2" style="font-size: 30px; margin-left: 10px; ">Cantidad de
+                                                    usuarios por pais</div>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                    <!-- Cuerpo de la ventana modal -->
+                                    <div class="modal-body">
+
+                                        <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-171741919-1"></script><script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+                                        <canvas id="myChart" height="0" style="display: block; box-sizing: border-box; height: 0px; width: 0px;" width="0"></canvas>
+                                        <script>
+                                        //Se deja este script en la parte de la vista debido a multiples problemas
+                                        // a la hora de mostrarlo en la ventana modal
+                                            var canvas = document.getElementById('myChart');
+                                            var ctx = canvas.getContext("2d");
+                                            var data = [521,1,8,1,1,1,7,5,332,7,2,1,6,1,4,1,1,3,1,1,1,1,1,10,7,1,1,1,2,2,2];
+                                            var labels = ["sin pa\u00eds","AF","AR","BA","BM","BN","BR","CL","CO","CU","DE","DO","EC","EE","ES","GS","HN","ID","IE","IN","IT","LA","ML","MX","PE","PG","SO","UA","US","UY","VE"];    
+                                            // Datos del gráfico
+                                            var data = {
+                                                labels: labels,
+                                                datasets: [{
+                                                    label: "Usuarios por rol/país",
+                                                    data: data,
+                                                    backgroundColor: generarColoresUnicos(data.length),
+                                                }, ],
+                                            };
+
+                                            // Crear el gráfico
+                                            var myChart = new Chart(ctx, {
+                                                type: "pie",
+                                                data: data,
+                                            });
+
+                                            function generarColorAleatorio() {
+                                                var letras = "0123456789ABCDEF";
+                                                var color = "#";
+                                                for (var i = 0; i < 6; i++) {
+                                                    color += letras[Math.floor(Math.random() * 16)];
+                                                }
+                                                return color;
+                                            }
+
+                                            // Generar colores únicos para todas las secciones del diagrama pie
+                                            function generarColoresUnicos(numSecciones) {
+                                                var colores = [];
+                                                for (var i = 0; i < numSecciones; i++) {
+                                                    var color = generarColorAleatorio();
+                                                    while (colores.includes(color)) {
+                                                        // Si el color generado ya existe, generamos uno nuevo
+                                                        color = generarColorAleatorio();
+                                                    }
+                                                    colores.push(color);
+                                                }
+                                                return colores;
+                                            }
+                                        </script>
+
+
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div><div class="modal fade in" id="myModal1" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1" style="display: block; padding-right: 17px;">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content ">
+            <!-- Encabezado de la ventana modal -->
+            <div class="modal-header" style="height:100px; background-color:#ffd404">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="h1" style="font-size:25px; display: flex; justify-content: flex-end;">Información del usuario</div>
+                        </div>
+
+                        <div class="col-sm-3"><button type="button" class="close" data-dismiss="modal">×</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Cuerpo de la ventana modal -->
+            <div class="modal-body">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-3">
+                            <div class="h4"> ID:1</div>
+                            <div class="h3 user-name">Revistas Politécnico</div>
+                           
+                        </div>
+                        <div class="col-sm-6">
+                            <div><b class="data-name">Usuario: </b>admin</div>
+                            <div><b class="data-name">Email: </b>revistas@elpoli.edu.co</div>
+                            <div><b class="data-name">Nacionalidad: </b>CO</div>
+                            <div><b class="data-name">Universidad: </b> UNAL <button class="text-success" style="border:none; background:none" type="button" data-toggle="modal" data-target="#mySecondModal1">
+                            <i class="text-success glyphicon glyphicon-pencil"></i>
+                            </button>&nbsp;</div>
+                            <div><b class="data-name">Grado universitario: </b> Filosofo<button class="text-success" style="border:none; background:none" type="button" data-toggle="modal" data-target="#myThirdModal1">
+                            <i class="text-success glyphicon glyphicon-pencil"></i>
+                            </button>&nbsp; </div>
+                            <div><b class="data-name">Roles: </b>Gestor,Editor,Autor/a,Revisor/a externo,Lector/a</div>
+                        </div>
+                    </div>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col-sm-3">
+                        <div class="h3 text-muted">Biografía <button class="text-success" style="border:none; background:none" type="button" data-toggle="modal" data-target="#myFourthModal1">
+                        <i class="text-success glyphicon glyphicon-pencil"></i>
+                    </button></div>
+                    </div>
+                    <div class="col-sm-6">Admin de la revista</div>
+                </div>        
+
+            <hr>
+            <div class="accordion" id="accordionReviewer1">
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingReviewer1">
+                    <button class="btn btn-activity btn-lg btn-block" type="button" data-toggle="collapse" data-target="#collapseReviewer1" aria-expanded="false" aria-controls="collapseReviewer1">
+                    Actividad Como Evaluador
+                    </button>
+                </h2>
+                <div id="collapseReviewer1" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <ul class="list-group">
+                    <li class="list-group-item" style="background-color: #e9e9f9;">Revisiones completadas: 0</li>
+                    <li class="list-group-item">Revisiones activas:  0</li>
+                    <li class="list-group-item" style="background-color: #e9e9f9;">Revisiones Rechazadas: 0</li>
+                    <li class="list-group-item ">Días desde la ultima revision: 0</li>
+                    <li class="list-group-item" style="background-color: #e9e9f9;">Promedio de días para completar una revisión: 0</li>
+                  </ul>
+                    </div>
+                </div>
+                </div>
+          </div>
+                <hr>
+                <div class="accordion" id="accordionAuthor1">
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="headingReviewer1">
+                        <button class="btn btn-activity btn-lg btn-block" type="button" data-toggle="collapse" data-target="#collapseAuthor1" aria-expanded="false" aria-controls="collapseAuthor1">
+                        Actividad Como Autor
+                        </button>
+                    </h2>
+                    <div id="collapseAuthor1" class="accordion-collapse collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                        <div class="accordion-body">
+                        <ul class="list-group">
+                        <li class="list-group-item">Articulos Enviados: 0</li>
+                        <li class="list-group-item " style="background-color: #e9e9f9;">Articulos en espera:  0</li>
+                        <li class="list-group-item">Articulos Aceptadas: 0</li>
+                        <li class="list-group-item " style="background-color: #e9e9f9;">Articulos rechazados: 0</li>
+                        <li class="list-group-item">Articulos programados: 0</li>
+                      </ul>
+                        </div>
+                    </div>
+                    </div>
+              </div>
+        </div>
+        </div>
+    </div>  
+<div class="modal fade in" id="mySecondModal1" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2" tabindex="-1" style="display: block;">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title" id="exampleModalToggleLabel2">Actualizar universidad al usuario</h1>
+        
+      </div>
+      <div class="modal-body">
+      <form method="POST"></form>
+      
+      <input type="hidden" name="user_id" value="1" style="display:none;">
+      <div><b class="data-name">Universidad: </b><input type="text" name="university" value="UNAL" maxlength="50"></div>
+      </div>
+
+      <div class="modal-footer">
+        <button class="btn btn-success" type="submit">Guardar</button>
+        <button class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+
+        
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal fade" id="myThirdModal1" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title" id="exampleModalToggleLabel2">Actualizar grado academico al usuario</h1>
+        
+      </div>
+      <div class="modal-body">
+      <form method="POST"></form>
+      
+      <input type="hidden" name="user_id" value="1" style="display:none;">
+      <div><b class="data-name">Grado academico: </b><input class="form-group" type="text" name="newAcademicDegree" value="Filosofo" maxlength="50"></div>
+      </div>
+
+      <div class="modal-footer">
+        <button class="btn btn-success" type="submit">Guardar</button>
+        <button class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+
+        
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal fade" id="myFourthModal1" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title" id="exampleModalToggleLabel2">Actualizar Biografía del usuario</h1>
+        
+      </div>
+      <div class="modal-body">
+      <form method="POST"></form>
+      
+      <input type="hidden" name="user_id" value="1" style="display:none;">
+      <div><b class="data-name">Biografía: </b><textarea class="form-group" type="text" style="width: 500px; height:80px;" name="biography" value="Admin de la revista " maxlength="250">Admin de la revista</textarea></div>
+      </div>
+
+      <div class="modal-footer">
+        <button class="btn btn-success" type="submit">Guardar</button>
+        <button class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+
+        
+      </div>
+    </div>
+  </div>
+</div>
+                  
+                </div><div class="modal fade" id="myModal4" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content ">
+            <!-- Encabezado de la ventana modal -->
+            <div class="modal-header" style="height:100px; background-color:#ffd404">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="h1" style="font-size:25px; display: flex; justify-content: flex-end;">Información del usuario</div>
+                        </div>
+
+                        <div class="col-sm-3"><button type="button" class="close" data-dismiss="modal">×</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Cuerpo de la ventana modal -->
+            <div class="modal-body">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-3">
+                            <div class="h4"> ID:4</div>
+                            <div class="h3 user-name">Equipo Editorial Revista Politécnica</div>
+                           
+                        </div>
+                        <div class="col-sm-6">
+                            <div><b class="data-name">Usuario: </b>rpolitecnica</div>
+                            <div><b class="data-name">Email: </b>rpolitecnica@elpoli.edu.co</div>
+                            <div><b class="data-name">Nacionalidad: </b>CO</div>
+                            <div><b class="data-name">Universidad: </b> POLITÉCNICO COLOMBIANO Jaime Isaza Cadavid <button class="text-success" style="border:none; background:none" type="button" data-toggle="modal" data-target="#mySecondModal4">
+                            <i class="text-success glyphicon glyphicon-pencil"></i>
+                            </button>&nbsp;</div>
+                            <div><b class="data-name">Grado universitario: </b> <button class="text-success" style="border:none; background:none" type="button" data-toggle="modal" data-target="#myThirdModal4">
+                            <i class="text-success glyphicon glyphicon-pencil"></i>
+                            </button>&nbsp; </div>
+                            <div><b class="data-name">Roles: </b>Gestor,Editor,Autor/a,Revisor/a externo,Lector/a</div>
+                        </div>
+                    </div>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col-sm-3">
+                        <div class="h3 text-muted">Biografía <button class="text-success" style="border:none; background:none" type="button" data-toggle="modal" data-target="#myFourthModal4">
+                        <i class="text-success glyphicon glyphicon-pencil"></i>
+                    </button></div>
+                    </div>
+                    <div class="col-sm-6">Equipo editorial </div>
+                </div>        
+
+            <hr>
+            <div class="accordion" id="accordionReviewer4">
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingReviewer4">
+                    <button class="btn btn-activity btn-lg btn-block" type="button" data-toggle="collapse" data-target="#collapseReviewer4" aria-expanded="false" aria-controls="collapseReviewer4">
+                    Actividad Como Evaluador
+                    </button>
+                </h2>
+                <div id="collapseReviewer4" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <ul class="list-group">
+                    <li class="list-group-item" style="background-color: #e9e9f9;">Revisiones completadas: 6</li>
+                    <li class="list-group-item">Revisiones activas:  0</li>
+                    <li class="list-group-item" style="background-color: #e9e9f9;">Revisiones Rechazadas: 0</li>
+                    <li class="list-group-item ">Días desde la ultima revision: 1704</li>
+                    <li class="list-group-item" style="background-color: #e9e9f9;">Promedio de días para completar una revisión: 28</li>
+                  </ul>
+                    </div>
+                </div>
+                </div>
+          </div>
+                <hr>
+                <div class="accordion" id="accordionAuthor4">
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="headingReviewer4">
+                        <button class="btn btn-activity btn-lg btn-block" type="button" data-toggle="collapse" data-target="#collapseAuthor4" aria-expanded="false" aria-controls="collapseAuthor4">
+                        Actividad Como Autor
+                        </button>
+                    </h2>
+                    <div id="collapseAuthor4" class="accordion-collapse collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                        <div class="accordion-body">
+                        <ul class="list-group">
+                        <li class="list-group-item">Articulos Enviados: 26</li>
+                        <li class="list-group-item " style="background-color: #e9e9f9;">Articulos en espera:  0</li>
+                        <li class="list-group-item">Articulos Aceptadas: 26</li>
+                        <li class="list-group-item " style="background-color: #e9e9f9;">Articulos rechazados: 0</li>
+                        <li class="list-group-item">Articulos programados: 0</li>
+                      </ul>
+                        </div>
+                    </div>
+                    </div>
+              </div>
+        </div>
+        </div>
+    </div>  
+<div class="modal fade" id="mySecondModal4" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title" id="exampleModalToggleLabel2">Actualizar universidad al usuario</h1>
+        
+      </div>
+      <div class="modal-body">
+      <form method="POST"></form>
+      
+      <input type="hidden" name="user_id" value="4" style="display:none;">
+      <div><b class="data-name">Universidad: </b><input type="text" name="university" value="POLITÉCNICO COLOMBIANO Jaime Isaza Cadavid" maxlength="50"></div>
+      </div>
+
+      <div class="modal-footer">
+        <button class="btn btn-success" type="submit">Guardar</button>
+        <button class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+
+        
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal fade" id="myThirdModal4" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title" id="exampleModalToggleLabel2">Actualizar grado academico al usuario</h1>
+        
+      </div>
+      <div class="modal-body">
+      <form method="POST"></form>
+      
+      <input type="hidden" name="user_id" value="4" style="display:none;">
+      <div><b class="data-name">Grado academico: </b><input class="form-group" type="text" name="newAcademicDegree" value="" maxlength="50"></div>
+      </div>
+
+      <div class="modal-footer">
+        <button class="btn btn-success" type="submit">Guardar</button>
+        <button class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+
+        
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal fade" id="myFourthModal4" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title" id="exampleModalToggleLabel2">Actualizar Biografía del usuario</h1>
+        
+      </div>
+      <div class="modal-body">
+      <form method="POST"></form>
+      
+      <input type="hidden" name="user_id" value="4" style="display:none;">
+      <div><b class="data-name">Biografía: </b><textarea class="form-group" type="text" style="width: 500px; height:80px;" name="biography" value="Equipo editorial  " maxlength="250">Equipo editorial </textarea></div>
+      </div>
+
+      <div class="modal-footer">
+        <button class="btn btn-success" type="submit">Guardar</button>
+        <button class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+
+        
+      </div>
+    </div>
+  </div>
+</div>
+                  
+                </div><div class="modal fade" id="myModal10" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content ">
+            <!-- Encabezado de la ventana modal -->
+            <div class="modal-header" style="height:100px; background-color:#ffd404">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="h1" style="font-size:25px; display: flex; justify-content: flex-end;">Información del usuario</div>
+                        </div>
+
+                        <div class="col-sm-3"><button type="button" class="close" data-dismiss="modal">×</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Cuerpo de la ventana modal -->
+            <div class="modal-body">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-3">
+                            <div class="h4"> ID:10</div>
+                            <div class="h3 user-name">Juan Gonzalo Ardila Marín</div>
+                           
+                        </div>
+                        <div class="col-sm-6">
+                            <div><b class="data-name">Usuario: </b>jgardila</div>
+                            <div><b class="data-name">Email: </b>juanardila@itm.edu.co</div>
+                            <div><b class="data-name">Nacionalidad: </b>CO</div>
+                            <div><b class="data-name">Universidad: </b> Instituto Tecnológico Metropolitano <button class="text-success" style="border:none; background:none" type="button" data-toggle="modal" data-target="#mySecondModal10">
+                            <i class="text-success glyphicon glyphicon-pencil"></i>
+                            </button>&nbsp;</div>
+                            <div><b class="data-name">Grado universitario: </b> <button class="text-success" style="border:none; background:none" type="button" data-toggle="modal" data-target="#myThirdModal10">
+                            <i class="text-success glyphicon glyphicon-pencil"></i>
+                            </button>&nbsp; </div>
+                            <div><b class="data-name">Roles: </b>Autor/a,Revisor/a externo</div>
+                        </div>
+                    </div>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col-sm-3">
+                        <div class="h3 text-muted">Biografía <button class="text-success" style="border:none; background:none" type="button" data-toggle="modal" data-target="#myFourthModal10">
+                        <i class="text-success glyphicon glyphicon-pencil"></i>
+                    </button></div>
+                    </div>
+                    <div class="col-sm-6">Docente Ocasional Tiempo CompletoLínea de Investigación en Computación Avanzada y Diseño DigitalGrupo de Investigación en Materiales Avanzados y EnergíaDepartamento de Mecatrónica &amp; ElectromecánicaFacultad de Ingenierías</div>
+                </div>        
+
+            <hr>
+            <div class="accordion" id="accordionReviewer10">
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingReviewer10">
+                    <button class="btn btn-activity btn-lg btn-block" type="button" data-toggle="collapse" data-target="#collapseReviewer10" aria-expanded="false" aria-controls="collapseReviewer10">
+                    Actividad Como Evaluador
+                    </button>
+                </h2>
+                <div id="collapseReviewer10" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <ul class="list-group">
+                    <li class="list-group-item" style="background-color: #e9e9f9;">Revisiones completadas: 0</li>
+                    <li class="list-group-item">Revisiones activas:  0</li>
+                    <li class="list-group-item" style="background-color: #e9e9f9;">Revisiones Rechazadas: 0</li>
+                    <li class="list-group-item ">Días desde la ultima revision: 0</li>
+                    <li class="list-group-item" style="background-color: #e9e9f9;">Promedio de días para completar una revisión: 0</li>
+                  </ul>
+                    </div>
+                </div>
+                </div>
+          </div>
+                <hr>
+                <div class="accordion" id="accordionAuthor10">
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="headingReviewer10">
+                        <button class="btn btn-activity btn-lg btn-block" type="button" data-toggle="collapse" data-target="#collapseAuthor10" aria-expanded="false" aria-controls="collapseAuthor10">
+                        Actividad Como Autor
+                        </button>
+                    </h2>
+                    <div id="collapseAuthor10" class="accordion-collapse collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                        <div class="accordion-body">
+                        <ul class="list-group">
+                        <li class="list-group-item">Articulos Enviados: 0</li>
+                        <li class="list-group-item " style="background-color: #e9e9f9;">Articulos en espera:  0</li>
+                        <li class="list-group-item">Articulos Aceptadas: 0</li>
+                        <li class="list-group-item " style="background-color: #e9e9f9;">Articulos rechazados: 0</li>
+                        <li class="list-group-item">Articulos programados: 0</li>
+                      </ul>
+                        </div>
+                    </div>
+                    </div>
+              </div>
+        </div>
+        </div>
+    </div>  
+<div class="modal fade" id="mySecondModal10" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title" id="exampleModalToggleLabel2">Actualizar universidad al usuario</h1>
+        
+      </div>
+      <div class="modal-body">
+      <form method="POST"></form>
+      
+      <input type="hidden" name="user_id" value="10" style="display:none;">
+      <div><b class="data-name">Universidad: </b><input type="text" name="university" value="Instituto Tecnológico Metropolitano" maxlength="50"></div>
+      </div>
+
+      <div class="modal-footer">
+        <button class="btn btn-success" type="submit">Guardar</button>
+        <button class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+
+        
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal fade" id="myThirdModal10" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title" id="exampleModalToggleLabel2">Actualizar grado academico al usuario</h1>
+        
+      </div>
+      <div class="modal-body">
+      <form method="POST"></form>
+      
+      <input type="hidden" name="user_id" value="10" style="display:none;">
+      <div><b class="data-name">Grado academico: </b><input class="form-group" type="text" name="newAcademicDegree" value="" maxlength="50"></div>
+      </div>
+
+      <div class="modal-footer">
+        <button class="btn btn-success" type="submit">Guardar</button>
+        <button class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+
+        
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal fade" id="myFourthModal10" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title" id="exampleModalToggleLabel2">Actualizar Biografía del usuario</h1>
+        
+      </div>
+      <div class="modal-body">
+      <form method="POST"></form>
+      
+      <input type="hidden" name="user_id" value="10" style="display:none;">
+      <div><b class="data-name">Biografía: </b><textarea class="form-group" type="text" style="width: 500px; height:80px;" name="biography" value="Docente Ocasional Tiempo CompletoLínea de Investigación en Computación Avanzada y Diseño DigitalGrupo de Investigación en Materiales Avanzados y EnergíaDepartamento de Mecatrónica &amp; ElectromecánicaFacultad de Ingenierías " maxlength="250">Docente Ocasional Tiempo CompletoLínea de Investigación en Computación Avanzada y Diseño DigitalGrupo de Investigación en Materiales Avanzados y EnergíaDepartamento de Mecatrónica &amp; ElectromecánicaFacultad de Ingenierías</textarea></div>
+      </div>
+
+      <div class="modal-footer">
+        <button class="btn btn-success" type="submit">Guardar</button>
+        <button class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+
+        
+      </div>
+    </div>
+  </div>
+</div>
+                  
+                </div><div class="modal fade" id="myModal15" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content ">
+            <!-- Encabezado de la ventana modal -->
+            <div class="modal-header" style="height:100px; background-color:#ffd404">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="h1" style="font-size:25px; display: flex; justify-content: flex-end;">Información del usuario</div>
+                        </div>
+
+                        <div class="col-sm-3"><button type="button" class="close" data-dismiss="modal">×</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Cuerpo de la ventana modal -->
+            <div class="modal-body">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-3">
+                            <div class="h4"> ID:15</div>
+                            <div class="h3 user-name">Juan Felipe Vargas Martinez</div>
+                           
+                        </div>
+                        <div class="col-sm-6">
+                            <div><b class="data-name">Usuario: </b>jfvargas</div>
+                            <div><b class="data-name">Email: </b>jfelipe148@gmail.com</div>
+                            <div><b class="data-name">Nacionalidad: </b>CO</div>
+                            <div><b class="data-name">Universidad: </b> Politécnico Colombiano Jaime Isaza Cadavid <button class="text-success" style="border:none; background:none" type="button" data-toggle="modal" data-target="#mySecondModal15">
+                            <i class="text-success glyphicon glyphicon-pencil"></i>
+                            </button>&nbsp;</div>
+                            <div><b class="data-name">Grado universitario: </b> <button class="text-success" style="border:none; background:none" type="button" data-toggle="modal" data-target="#myThirdModal15">
+                            <i class="text-success glyphicon glyphicon-pencil"></i>
+                            </button>&nbsp; </div>
+                            <div><b class="data-name">Roles: </b>Autor/a,Lector/a</div>
+                        </div>
+                    </div>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col-sm-3">
+                        <div class="h3 text-muted">Biografía <button class="text-success" style="border:none; background:none" type="button" data-toggle="modal" data-target="#myFourthModal15">
+                        <i class="text-success glyphicon glyphicon-pencil"></i>
+                    </button></div>
+                    </div>
+                    <div class="col-sm-6"></div>
+                </div>        
+
+                <hr>
+                <div class="accordion" id="accordionAuthor15">
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="headingReviewer15">
+                        <button class="btn btn-activity btn-lg btn-block" type="button" data-toggle="collapse" data-target="#collapseAuthor15" aria-expanded="false" aria-controls="collapseAuthor15">
+                        Actividad Como Autor
+                        </button>
+                    </h2>
+                    <div id="collapseAuthor15" class="accordion-collapse collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                        <div class="accordion-body">
+                        <ul class="list-group">
+                        <li class="list-group-item">Articulos Enviados: 0</li>
+                        <li class="list-group-item " style="background-color: #e9e9f9;">Articulos en espera:  0</li>
+                        <li class="list-group-item">Articulos Aceptadas: 0</li>
+                        <li class="list-group-item " style="background-color: #e9e9f9;">Articulos rechazados: 0</li>
+                        <li class="list-group-item">Articulos programados: 0</li>
+                      </ul>
+                        </div>
+                    </div>
+                    </div>
+              </div>
+        </div>
+        </div>
+    </div>  
+<div class="modal fade" id="mySecondModal15" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title" id="exampleModalToggleLabel2">Actualizar universidad al usuario</h1>
+        
+      </div>
+      <div class="modal-body">
+      <form method="POST"></form>
+      
+      <input type="hidden" name="user_id" value="15" style="display:none;">
+      <div><b class="data-name">Universidad: </b><input type="text" name="university" value="Politécnico Colombiano Jaime Isaza Cadavid" maxlength="50"></div>
+      </div>
+
+      <div class="modal-footer">
+        <button class="btn btn-success" type="submit">Guardar</button>
+        <button class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+
+        
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal fade" id="myThirdModal15" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title" id="exampleModalToggleLabel2">Actualizar grado academico al usuario</h1>
+        
+      </div>
+      <div class="modal-body">
+      <form method="POST"></form>
+      
+      <input type="hidden" name="user_id" value="15" style="display:none;">
+      <div><b class="data-name">Grado academico: </b><input class="form-group" type="text" name="newAcademicDegree" value="" maxlength="50"></div>
+      </div>
+
+      <div class="modal-footer">
+        <button class="btn btn-success" type="submit">Guardar</button>
+        <button class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+
+        
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal fade" id="myFourthModal15" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title" id="exampleModalToggleLabel2">Actualizar Biografía del usuario</h1>
+        
+      </div>
+      <div class="modal-body">
+      <form method="POST"></form>
+      
+      <input type="hidden" name="user_id" value="15" style="display:none;">
+      <div><b class="data-name">Biografía: </b><textarea class="form-group" type="text" style="width: 500px; height:80px;" name="biography" value=" " maxlength="250"></textarea></div>
+      </div>
+
+      <div class="modal-footer">
+        <button class="btn btn-success" type="submit">Guardar</button>
+        <button class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+
+        
+      </div>
+    </div>
+  </div>
+</div>
+                  
+                </div><div class="modal fade" id="myModal16" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content ">
+            <!-- Encabezado de la ventana modal -->
+            <div class="modal-header" style="height:100px; background-color:#ffd404">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="h1" style="font-size:25px; display: flex; justify-content: flex-end;">Información del usuario</div>
+                        </div>
+
+                        <div class="col-sm-3"><button type="button" class="close" data-dismiss="modal">×</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Cuerpo de la ventana modal -->
+            <div class="modal-body">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-3">
+                            <div class="h4"> ID:16</div>
+                            <div class="h3 user-name">Darwin Santiago Aldas</div>
+                           
+                        </div>
+                        <div class="col-sm-6">
+                            <div><b class="data-name">Usuario: </b>santiagoaldas</div>
+                            <div><b class="data-name">Email: </b>santiagoaldas0246@hotmail.com</div>
+                            <div><b class="data-name">Nacionalidad: </b>EC</div>
+                            <div><b class="data-name">Universidad: </b> UNIVERSIDAD TÉCNICA DE AMBATO <button class="text-success" style="border:none; background:none" type="button" data-toggle="modal" data-target="#mySecondModal16">
+                            <i class="text-success glyphicon glyphicon-pencil"></i>
+                            </button>&nbsp;</div>
+                            <div><b class="data-name">Grado universitario: </b> <button class="text-success" style="border:none; background:none" type="button" data-toggle="modal" data-target="#myThirdModal16">
+                            <i class="text-success glyphicon glyphicon-pencil"></i>
+                            </button>&nbsp; </div>
+                            <div><b class="data-name">Roles: </b>Autor/a,Lector/a</div>
+                        </div>
+                    </div>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col-sm-3">
+                        <div class="h3 text-muted">Biografía <button class="text-success" style="border:none; background:none" type="button" data-toggle="modal" data-target="#myFourthModal16">
+                        <i class="text-success glyphicon glyphicon-pencil"></i>
+                    </button></div>
+                    </div>
+                    <div class="col-sm-6"></div>
+                </div>        
+
+                <hr>
+                <div class="accordion" id="accordionAuthor16">
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="headingReviewer16">
+                        <button class="btn btn-activity btn-lg btn-block" type="button" data-toggle="collapse" data-target="#collapseAuthor16" aria-expanded="false" aria-controls="collapseAuthor16">
+                        Actividad Como Autor
+                        </button>
+                    </h2>
+                    <div id="collapseAuthor16" class="accordion-collapse collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                        <div class="accordion-body">
+                        <ul class="list-group">
+                        <li class="list-group-item">Articulos Enviados: 1</li>
+                        <li class="list-group-item " style="background-color: #e9e9f9;">Articulos en espera:  1</li>
+                        <li class="list-group-item">Articulos Aceptadas: 0</li>
+                        <li class="list-group-item " style="background-color: #e9e9f9;">Articulos rechazados: 0</li>
+                        <li class="list-group-item">Articulos programados: 0</li>
+                      </ul>
+                        </div>
+                    </div>
+                    </div>
+              </div>
+        </div>
+        </div>
+    </div>  
+<div class="modal fade" id="mySecondModal16" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title" id="exampleModalToggleLabel2">Actualizar universidad al usuario</h1>
+        
+      </div>
+      <div class="modal-body">
+      <form method="POST"></form>
+      
+      <input type="hidden" name="user_id" value="16" style="display:none;">
+      <div><b class="data-name">Universidad: </b><input type="text" name="university" value="UNIVERSIDAD TÉCNICA DE AMBATO" maxlength="50"></div>
+      </div>
+
+      <div class="modal-footer">
+        <button class="btn btn-success" type="submit">Guardar</button>
+        <button class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+
+        
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal fade" id="myThirdModal16" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title" id="exampleModalToggleLabel2">Actualizar grado academico al usuario</h1>
+        
+      </div>
+      <div class="modal-body">
+      <form method="POST"></form>
+      
+      <input type="hidden" name="user_id" value="16" style="display:none;">
+      <div><b class="data-name">Grado academico: </b><input class="form-group" type="text" name="newAcademicDegree" value="" maxlength="50"></div>
+      </div>
+
+      <div class="modal-footer">
+        <button class="btn btn-success" type="submit">Guardar</button>
+        <button class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+
+        
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal fade" id="myFourthModal16" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title" id="exampleModalToggleLabel2">Actualizar Biografía del usuario</h1>
+        
+      </div>
+      <div class="modal-body">
+      <form method="POST"></form>
+      
+      <input type="hidden" name="user_id" value="16" style="display:none;">
+      <div><b class="data-name">Biografía: </b><textarea class="form-group" type="text" style="width: 500px; height:80px;" name="biography" value=" " maxlength="250"></textarea></div>
+      </div>
+
+      <div class="modal-footer">
+        <button class="btn btn-success" type="submit">Guardar</button>
+        <button class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+
+        
+      </div>
+    </div>
+  </div>
+</div>
+                  
+                </div><div class="modal fade" id="myModal17" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content ">
+            <!-- Encabezado de la ventana modal -->
+            <div class="modal-header" style="height:100px; background-color:#ffd404">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="h1" style="font-size:25px; display: flex; justify-content: flex-end;">Información del usuario</div>
+                        </div>
+
+                        <div class="col-sm-3"><button type="button" class="close" data-dismiss="modal">×</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Cuerpo de la ventana modal -->
+            <div class="modal-body">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-3">
+                            <div class="h4"> ID:17</div>
+                            <div class="h3 user-name">Andres Daniel Zapata</div>
+                           
+                        </div>
+                        <div class="col-sm-6">
+                            <div><b class="data-name">Usuario: </b>adzapata</div>
+                            <div><b class="data-name">Email: </b>adzapata@elpoli.edu.co</div>
+                            <div><b class="data-name">Nacionalidad: </b>CO</div>
+                            <div><b class="data-name">Universidad: </b>  <button class="text-success" style="border:none; background:none" type="button" data-toggle="modal" data-target="#mySecondModal17">
+                            <i class="text-success glyphicon glyphicon-pencil"></i>
+                            </button>&nbsp;</div>
+                            <div><b class="data-name">Grado universitario: </b> <button class="text-success" style="border:none; background:none" type="button" data-toggle="modal" data-target="#myThirdModal17">
+                            <i class="text-success glyphicon glyphicon-pencil"></i>
+                            </button>&nbsp; </div>
+                            <div><b class="data-name">Roles: </b>Lector/a</div>
+                        </div>
+                    </div>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col-sm-3">
+                        <div class="h3 text-muted">Biografía <button class="text-success" style="border:none; background:none" type="button" data-toggle="modal" data-target="#myFourthModal17">
+                        <i class="text-success glyphicon glyphicon-pencil"></i>
+                    </button></div>
+                    </div>
+                    <div class="col-sm-6"></div>
+                </div>        
+
+        </div>
+        </div>
+    </div>  
+<div class="modal fade" id="mySecondModal17" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title" id="exampleModalToggleLabel2">Actualizar universidad al usuario</h1>
+        
+      </div>
+      <div class="modal-body">
+      <form method="POST"></form>
+      
+      <input type="hidden" name="user_id" value="17" style="display:none;">
+      <div><b class="data-name">Universidad: </b><input type="text" name="university" value="" maxlength="50"></div>
+      </div>
+
+      <div class="modal-footer">
+        <button class="btn btn-success" type="submit">Guardar</button>
+        <button class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+
+        
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal fade" id="myThirdModal17" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title" id="exampleModalToggleLabel2">Actualizar grado academico al usuario</h1>
+        
+      </div>
+      <div class="modal-body">
+      <form method="POST"></form>
+      
+      <input type="hidden" name="user_id" value="17" style="display:none;">
+      <div><b class="data-name">Grado academico: </b><input class="form-group" type="text" name="newAcademicDegree" value="" maxlength="50"></div>
+      </div>
+
+      <div class="modal-footer">
+        <button class="btn btn-success" type="submit">Guardar</button>
+        <button class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+
+        
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal fade" id="myFourthModal17" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title" id="exampleModalToggleLabel2">Actualizar Biografía del usuario</h1>
+        
+      </div>
+      <div class="modal-body">
+      <form method="POST"></form>
+      
+      <input type="hidden" name="user_id" value="17" style="display:none;">
+      <div><b class="data-name">Biografía: </b><textarea class="form-group" type="text" style="width: 500px; height:80px;" name="biography" value=" " maxlength="250"></textarea></div>
+      </div>
+
+      <div class="modal-footer">
+        <button class="btn btn-success" type="submit">Guardar</button>
+        <button class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+
+        
+      </div>
+    </div>
+  </div>
+</div>
+                  
+                </div><div class="modal fade" id="myModal18" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content ">
+            <!-- Encabezado de la ventana modal -->
+            <div class="modal-header" style="height:100px; background-color:#ffd404">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="h1" style="font-size:25px; display: flex; justify-content: flex-end;">Información del usuario</div>
+                        </div>
+
+                        <div class="col-sm-3"><button type="button" class="close" data-dismiss="modal">×</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Cuerpo de la ventana modal -->
+            <div class="modal-body">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-3">
+                            <div class="h4"> ID:18</div>
+                            <div class="h3 user-name">Sandra Bibiana Muriel Ruiz</div>
+                           
+                        </div>
+                        <div class="col-sm-6">
+                            <div><b class="data-name">Usuario: </b>sandra-muriel</div>
+                            <div><b class="data-name">Email: </b>sbmuriel@elpoli.edu.co</div>
+                            <div><b class="data-name">Nacionalidad: </b>CO</div>
+                            <div><b class="data-name">Universidad: </b> Politécnico Colombiano JIC <button class="text-success" style="border:none; background:none" type="button" data-toggle="modal" data-target="#mySecondModal18">
+                            <i class="text-success glyphicon glyphicon-pencil"></i>
+                            </button>&nbsp;</div>
+                            <div><b class="data-name">Grado universitario: </b> <button class="text-success" style="border:none; background:none" type="button" data-toggle="modal" data-target="#myThirdModal18">
+                            <i class="text-success glyphicon glyphicon-pencil"></i>
+                            </button>&nbsp; </div>
+                            <div><b class="data-name">Roles: </b>Editor de seccion,Autor/a,Revisor/a externo,Lector/a</div>
+                        </div>
+                    </div>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col-sm-3">
+                        <div class="h3 text-muted">Biografía <button class="text-success" style="border:none; background:none" type="button" data-toggle="modal" data-target="#myFourthModal18">
+                        <i class="text-success glyphicon glyphicon-pencil"></i>
+                    </button></div>
+                    </div>
+                    <div class="col-sm-6"></div>
+                </div>        
+
+            <hr>
+            <div class="accordion" id="accordionReviewer18">
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingReviewer18">
+                    <button class="btn btn-activity btn-lg btn-block" type="button" data-toggle="collapse" data-target="#collapseReviewer18" aria-expanded="false" aria-controls="collapseReviewer18">
+                    Actividad Como Evaluador
+                    </button>
+                </h2>
+                <div id="collapseReviewer18" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <ul class="list-group">
+                    <li class="list-group-item" style="background-color: #e9e9f9;">Revisiones completadas: 1</li>
+                    <li class="list-group-item">Revisiones activas:  0</li>
+                    <li class="list-group-item" style="background-color: #e9e9f9;">Revisiones Rechazadas: 0</li>
+                    <li class="list-group-item ">Días desde la ultima revision: 1650</li>
+                    <li class="list-group-item" style="background-color: #e9e9f9;">Promedio de días para completar una revisión: 20</li>
+                  </ul>
+                    </div>
+                </div>
+                </div>
+          </div>
+                <hr>
+                <div class="accordion" id="accordionAuthor18">
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="headingReviewer18">
+                        <button class="btn btn-activity btn-lg btn-block" type="button" data-toggle="collapse" data-target="#collapseAuthor18" aria-expanded="false" aria-controls="collapseAuthor18">
+                        Actividad Como Autor
+                        </button>
+                    </h2>
+                    <div id="collapseAuthor18" class="accordion-collapse collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                        <div class="accordion-body">
+                        <ul class="list-group">
+                        <li class="list-group-item">Articulos Enviados: 1</li>
+                        <li class="list-group-item " style="background-color: #e9e9f9;">Articulos en espera:  0</li>
+                        <li class="list-group-item">Articulos Aceptadas: 1</li>
+                        <li class="list-group-item " style="background-color: #e9e9f9;">Articulos rechazados: 0</li>
+                        <li class="list-group-item">Articulos programados: 0</li>
+                      </ul>
+                        </div>
+                    </div>
+                    </div>
+              </div>
+        </div>
+        </div>
+    </div>  
+<div class="modal fade" id="mySecondModal18" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title" id="exampleModalToggleLabel2">Actualizar universidad al usuario</h1>
+        
+      </div>
+      <div class="modal-body">
+      <form method="POST"></form>
+      
+      <input type="hidden" name="user_id" value="18" style="display:none;">
+      <div><b class="data-name">Universidad: </b><input type="text" name="university" value="Politécnico Colombiano JIC" maxlength="50"></div>
+      </div>
+
+      <div class="modal-footer">
+        <button class="btn btn-success" type="submit">Guardar</button>
+        <button class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+
+        
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal fade" id="myThirdModal18" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title" id="exampleModalToggleLabel2">Actualizar grado academico al usuario</h1>
+        
+      </div>
+      <div class="modal-body">
+      <form method="POST"></form>
+      
+      <input type="hidden" name="user_id" value="18" style="display:none;">
+      <div><b class="data-name">Grado academico: </b><input class="form-group" type="text" name="newAcademicDegree" value="" maxlength="50"></div>
+      </div>
+
+      <div class="modal-footer">
+        <button class="btn btn-success" type="submit">Guardar</button>
+        <button class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+
+        
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal fade" id="myFourthModal18" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title" id="exampleModalToggleLabel2">Actualizar Biografía del usuario</h1>
+        
+      </div>
+      <div class="modal-body">
+      <form method="POST"></form>
+      
+      <input type="hidden" name="user_id" value="18" style="display:none;">
+      <div><b class="data-name">Biografía: </b><textarea class="form-group" type="text" style="width: 500px; height:80px;" name="biography" value=" " maxlength="250"></textarea></div>
+      </div>
+
+      <div class="modal-footer">
+        <button class="btn btn-success" type="submit">Guardar</button>
+        <button class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+
+        
+      </div>
+    </div>
+  </div>
+</div>
+                  
+                </div><div class="modal fade" id="myModal19" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content ">
+            <!-- Encabezado de la ventana modal -->
+            <div class="modal-header" style="height:100px; background-color:#ffd404">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="h1" style="font-size:25px; display: flex; justify-content: flex-end;">Información del usuario</div>
+                        </div>
+
+                        <div class="col-sm-3"><button type="button" class="close" data-dismiss="modal">×</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Cuerpo de la ventana modal -->
+            <div class="modal-body">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-3">
+                            <div class="h4"> ID:19</div>
+                            <div class="h3 user-name">Jorge Alberto Gómez López</div>
+                           
+                        </div>
+                        <div class="col-sm-6">
+                            <div><b class="data-name">Usuario: </b>jgomez</div>
+                            <div><b class="data-name">Email: </b>jagomez@elpoli.edu.co</div>
+                            <div><b class="data-name">Nacionalidad: </b>CO</div>
+                            <div><b class="data-name">Universidad: </b> Politécnico Colombiano JIC <button class="text-success" style="border:none; background:none" type="button" data-toggle="modal" data-target="#mySecondModal19">
+                            <i class="text-success glyphicon glyphicon-pencil"></i>
+                            </button>&nbsp;</div>
+                            <div><b class="data-name">Grado universitario: </b> <button class="text-success" style="border:none; background:none" type="button" data-toggle="modal" data-target="#myThirdModal19">
+                            <i class="text-success glyphicon glyphicon-pencil"></i>
+                            </button>&nbsp; </div>
+                            <div><b class="data-name">Roles: </b>Editor de seccion</div>
+                        </div>
+                    </div>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col-sm-3">
+                        <div class="h3 text-muted">Biografía <button class="text-success" style="border:none; background:none" type="button" data-toggle="modal" data-target="#myFourthModal19">
+                        <i class="text-success glyphicon glyphicon-pencil"></i>
+                    </button></div>
+                    </div>
+                    <div class="col-sm-6"></div>
+                </div>        
+
+        </div>
+        </div>
+    </div>  
+<div class="modal fade" id="mySecondModal19" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title" id="exampleModalToggleLabel2">Actualizar universidad al usuario</h1>
+        
+      </div>
+      <div class="modal-body">
+      <form method="POST"></form>
+      
+      <input type="hidden" name="user_id" value="19" style="display:none;">
+      <div><b class="data-name">Universidad: </b><input type="text" name="university" value="Politécnico Colombiano JIC" maxlength="50"></div>
+      </div>
+
+      <div class="modal-footer">
+        <button class="btn btn-success" type="submit">Guardar</button>
+        <button class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+
+        
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal fade" id="myThirdModal19" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title" id="exampleModalToggleLabel2">Actualizar grado academico al usuario</h1>
+        
+      </div>
+      <div class="modal-body">
+      <form method="POST"></form>
+      
+      <input type="hidden" name="user_id" value="19" style="display:none;">
+      <div><b class="data-name">Grado academico: </b><input class="form-group" type="text" name="newAcademicDegree" value="" maxlength="50"></div>
+      </div>
+
+      <div class="modal-footer">
+        <button class="btn btn-success" type="submit">Guardar</button>
+        <button class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+
+        
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal fade" id="myFourthModal19" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title" id="exampleModalToggleLabel2">Actualizar Biografía del usuario</h1>
+        
+      </div>
+      <div class="modal-body">
+      <form method="POST"></form>
+      
+      <input type="hidden" name="user_id" value="19" style="display:none;">
+      <div><b class="data-name">Biografía: </b><textarea class="form-group" type="text" style="width: 500px; height:80px;" name="biography" value=" " maxlength="250"></textarea></div>
+      </div>
+
+      <div class="modal-footer">
+        <button class="btn btn-success" type="submit">Guardar</button>
+        <button class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+
+        
+      </div>
+    </div>
+  </div>
+</div>
+                  
+                </div><div class="modal fade" id="myModal20" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content ">
+            <!-- Encabezado de la ventana modal -->
+            <div class="modal-header" style="height:100px; background-color:#ffd404">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="h1" style="font-size:25px; display: flex; justify-content: flex-end;">Información del usuario</div>
+                        </div>
+
+                        <div class="col-sm-3"><button type="button" class="close" data-dismiss="modal">×</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Cuerpo de la ventana modal -->
+            <div class="modal-body">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-3">
+                            <div class="h4"> ID:20</div>
+                            <div class="h3 user-name">William Alberto Ramirez Silva</div>
+                           
+                        </div>
+                        <div class="col-sm-6">
+                            <div><b class="data-name">Usuario: </b>wramirez</div>
+                            <div><b class="data-name">Email: </b>waramirez@elpoli.edu.co</div>
+                            <div><b class="data-name">Nacionalidad: </b>CO</div>
+                            <div><b class="data-name">Universidad: </b> Politécnico Colombiano JIC <button class="text-success" style="border:none; background:none" type="button" data-toggle="modal" data-target="#mySecondModal20">
+                            <i class="text-success glyphicon glyphicon-pencil"></i>
+                            </button>&nbsp;</div>
+                            <div><b class="data-name">Grado universitario: </b> <button class="text-success" style="border:none; background:none" type="button" data-toggle="modal" data-target="#myThirdModal20">
+                            <i class="text-success glyphicon glyphicon-pencil"></i>
+                            </button>&nbsp; </div>
+                            <div><b class="data-name">Roles: </b>Editor de seccion</div>
+                        </div>
+                    </div>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col-sm-3">
+                        <div class="h3 text-muted">Biografía <button class="text-success" style="border:none; background:none" type="button" data-toggle="modal" data-target="#myFourthModal20">
+                        <i class="text-success glyphicon glyphicon-pencil"></i>
+                    </button></div>
+                    </div>
+                    <div class="col-sm-6"></div>
+                </div>        
+
+        </div>
+        </div>
+    </div>  
+<div class="modal fade" id="mySecondModal20" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title" id="exampleModalToggleLabel2">Actualizar universidad al usuario</h1>
+        
+      </div>
+      <div class="modal-body">
+      <form method="POST"></form>
+      
+      <input type="hidden" name="user_id" value="20" style="display:none;">
+      <div><b class="data-name">Universidad: </b><input type="text" name="university" value="Politécnico Colombiano JIC" maxlength="50"></div>
+      </div>
+
+      <div class="modal-footer">
+        <button class="btn btn-success" type="submit">Guardar</button>
+        <button class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+
+        
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal fade" id="myThirdModal20" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title" id="exampleModalToggleLabel2">Actualizar grado academico al usuario</h1>
+        
+      </div>
+      <div class="modal-body">
+      <form method="POST"></form>
+      
+      <input type="hidden" name="user_id" value="20" style="display:none;">
+      <div><b class="data-name">Grado academico: </b><input class="form-group" type="text" name="newAcademicDegree" value="" maxlength="50"></div>
+      </div>
+
+      <div class="modal-footer">
+        <button class="btn btn-success" type="submit">Guardar</button>
+        <button class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+
+        
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal fade" id="myFourthModal20" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title" id="exampleModalToggleLabel2">Actualizar Biografía del usuario</h1>
+        
+      </div>
+      <div class="modal-body">
+      <form method="POST"></form>
+      
+      <input type="hidden" name="user_id" value="20" style="display:none;">
+      <div><b class="data-name">Biografía: </b><textarea class="form-group" type="text" style="width: 500px; height:80px;" name="biography" value=" " maxlength="250"></textarea></div>
+      </div>
+
+      <div class="modal-footer">
+        <button class="btn btn-success" type="submit">Guardar</button>
+        <button class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+
+        
+      </div>
+    </div>
+  </div>
+</div>
+                  
+                </div><div class="modal fade" id="myModal21" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content ">
+            <!-- Encabezado de la ventana modal -->
+            <div class="modal-header" style="height:100px; background-color:#ffd404">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="h1" style="font-size:25px; display: flex; justify-content: flex-end;">Información del usuario</div>
+                        </div>
+
+                        <div class="col-sm-3"><button type="button" class="close" data-dismiss="modal">×</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Cuerpo de la ventana modal -->
+            <div class="modal-body">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-3">
+                            <div class="h4"> ID:21</div>
+                            <div class="h3 user-name">Ademar Gonçalves da Costa</div>
+                           
+                        </div>
+                        <div class="col-sm-6">
+                            <div><b class="data-name">Usuario: </b>adacosta</div>
+                            <div><b class="data-name">Email: </b>ademar.costa@ifpb.edu.br</div>
+                            <div><b class="data-name">Nacionalidad: </b>BR</div>
+                            <div><b class="data-name">Universidad: </b> Instituto Federal de Paraíba <button class="text-success" style="border:none; background:none" type="button" data-toggle="modal" data-target="#mySecondModal21">
+                            <i class="text-success glyphicon glyphicon-pencil"></i>
+                            </button>&nbsp;</div>
+                            <div><b class="data-name">Grado universitario: </b> <button class="text-success" style="border:none; background:none" type="button" data-toggle="modal" data-target="#myThirdModal21">
+                            <i class="text-success glyphicon glyphicon-pencil"></i>
+                            </button>&nbsp; </div>
+                            <div><b class="data-name">Roles: </b>Editor de seccion</div>
+                        </div>
+                    </div>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col-sm-3">
+                        <div class="h3 text-muted">Biografía <button class="text-success" style="border:none; background:none" type="button" data-toggle="modal" data-target="#myFourthModal21">
+                        <i class="text-success glyphicon glyphicon-pencil"></i>
+                    </button></div>
+                    </div>
+                    <div class="col-sm-6"></div>
+                </div>        
+
+        </div>
+        </div>
+    </div>  
+<div class="modal fade" id="mySecondModal21" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title" id="exampleModalToggleLabel2">Actualizar universidad al usuario</h1>
+        
+      </div>
+      <div class="modal-body">
+      <form method="POST"></form>
+      
+      <input type="hidden" name="user_id" value="21" style="display:none;">
+      <div><b class="data-name">Universidad: </b><input type="text" name="university" value="Instituto Federal de Paraíba" maxlength="50"></div>
+      </div>
+
+      <div class="modal-footer">
+        <button class="btn btn-success" type="submit">Guardar</button>
+        <button class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+
+        
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal fade" id="myThirdModal21" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title" id="exampleModalToggleLabel2">Actualizar grado academico al usuario</h1>
+        
+      </div>
+      <div class="modal-body">
+      <form method="POST"></form>
+      
+      <input type="hidden" name="user_id" value="21" style="display:none;">
+      <div><b class="data-name">Grado academico: </b><input class="form-group" type="text" name="newAcademicDegree" value="" maxlength="50"></div>
+      </div>
+
+      <div class="modal-footer">
+        <button class="btn btn-success" type="submit">Guardar</button>
+        <button class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+
+        
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal fade" id="myFourthModal21" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title" id="exampleModalToggleLabel2">Actualizar Biografía del usuario</h1>
+        
+      </div>
+      <div class="modal-body">
+      <form method="POST"></form>
+      
+      <input type="hidden" name="user_id" value="21" style="display:none;">
+      <div><b class="data-name">Biografía: </b><textarea class="form-group" type="text" style="width: 500px; height:80px;" name="biography" value=" " maxlength="250"></textarea></div>
+      </div>
+
+      <div class="modal-footer">
+        <button class="btn btn-success" type="submit">Guardar</button>
+        <button class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+
+        
+      </div>
+    </div>
+  </div>
+</div>
+                  
+
+
+                    </div><table class="table">
+                    <thead>
+
+                        <tr><th>
+
+                        </th>
+                        <form class="form-control" method="GET"></form>
+                            <th style="width: 100%;">
+                                Nombre
+                                <!--<input type="text" id="name" name="name" onchange="this.form.submit();"
+                                    value=""> -->
+                                <input style="width: 120px;" type="text" id="name" name="name" onchange="sendInputValues('name');" value="" maxlength="75">
+
+                            </th>
+                            <th>
+                                Apellido
+                                <input style="width: 100px;" type="text" id="lastnm" name="lastnm" onchange="sendInputValues('lastnm');" value="" maxlength="50">
+                            </th>
+                            <th style="width: 100%;">
+                                País
+                                <select style="width: 100%;" name="country" id="country" onchange="sendInputValues('country');" selected="value=&quot;&quot;">
+                                                                                                                        <option value="" selected="">Todos</option>
+                                                                                                                                                                <option value="AF">Afganistán</option>
+                                                                                                                                                                <option value="AM">Armenia</option>
+                                                                                                                                                                <option value="AQ">Antártida</option>
+                                                                                                                                                                <option value="AR">Argentina</option>
+                                                                                                                                                                <option value="AT">Austria</option>
+                                                                                                                                                                <option value="AU">Australia</option>
+                                                                                                                                                                <option value="BA">Bosnia y Herzegovina</option>
+                                                                                                                                                                <option value="BB">Barbados</option>
+                                                                                                                                                                <option value="BE">Bélgica</option>
+                                                                                                                                                                <option value="BF">Burkina Faso</option>
+                                                                                                                                                                <option value="BJ">Benín</option>
+                                                                                                                                                                <option value="BM">Bermudas</option>
+                                                                                                                                                                <option value="BN">Brunéi</option>
+                                                                                                                                                                <option value="BO">Bolivia</option>
+                                                                                                                                                                <option value="BR">Brasil</option>
+                                                                                                                                                                <option value="CA">Canadá</option>
+                                                                                                                                                                <option value="CD">República Democrática del Congo</option>
+                                                                                                                                                                <option value="CL">Chile</option>
+                                                                                                                                                                <option value="CO">Colombia</option>
+                                                                                                                                                                <option value="CR">Costa Rica</option>
+                                                                                                                                                                <option value="CU">Cuba</option>
+                                                                                                                                                                <option value="DE">Alemania</option>
+                                                                                                                                                                <option value="DO">República Dominicana</option>
+                                                                                                                                                                <option value="EC">Ecuador</option>
+                                                                                                                                                                <option value="EE">Estonia</option>
+                                                                                                                                                                <option value="EG">Egipto</option>
+                                                                                                                                                                <option value="ES">España</option>
+                                                                                                                                                                <option value="GA">Gabón</option>
+                                                                                                                                                                <option value="GF">Guayana Francesa</option>
+                                                                                                                                                                <option value="GS">Islas Georgia del Sur y Sandwich del Sur</option>
+                                                                                                                                                                <option value="GT">Guatemala</option>
+                                                                                                                                                                <option value="HN">Honduras</option>
+                                                                                                                                                                <option value="HR">Croacia</option>
+                                                                                                                                                                <option value="HU">Hungría</option>
+                                                                                                                                                                <option value="ID">Indonesia</option>
+                                                                                                                                                                <option value="IE">Irlanda</option>
+                                                                                                                                                                <option value="IN">India</option>
+                                                                                                                                                                <option value="IT">Italia</option>
+                                                                                                                                                                <option value="JO">Jordania</option>
+                                                                                                                                                                <option value="KR">Corea del Sur</option>
+                                                                                                                                                                <option value="LA">Laos</option>
+                                                                                                                                                                <option value="LT">Lituania</option>
+                                                                                                                                                                <option value="MA">Marruecos</option>
+                                                                                                                                                                <option value="MF">San Martín (parte francesa)</option>
+                                                                                                                                                                <option value="ML">Malí</option>
+                                                                                                                                                                <option value="MP">Islas Marianas del Norte</option>
+                                                                                                                                                                <option value="MW">Malaui</option>
+                                                                                                                                                                <option value="MX">México</option>
+                                                                                                                                                                <option value="NR">Nauru</option>
+                                                                                                                                                                <option value="PE">Perú</option>
+                                                                                                                                                                <option value="PG">Papúa Nueva Guinea</option>
+                                                                                                                                                                <option value="PR">Puerto Rico</option>
+                                                                                                                                                                <option value="PT">Portugal</option>
+                                                                                                                                                                <option value="SO">Somalia</option>
+                                                                                                                                                                <option value="SV">El Salvador</option>
+                                                                                                                                                                <option value="UA">Ucrania</option>
+                                                                                                                                                                <option value="UG">Uganda</option>
+                                                                                                                                                                <option value="US">Estados Unidos</option>
+                                                                                                                                                                <option value="UY">Uruguay</option>
+                                                                                                                                                                <option value="VE">Venezuela</option>
+                                                                                                                                                                <option value="ZM">Zambia</option>
+                                                                                                            </select>
+                            </th>
+
+                            <th>
+                                Roles
+                                <select name="roles" id="roles" onchange="sendInputValues('roles');" selected="value=&quot;&quot;">
+                                                                                                                        <option value="" selected="">Todos</option>
+                                                                                                                                                                <option value="2">Gestor/a de revista</option>
+                                                                                                                                                                <option value="3">Editor/a de la revista</option>
+                                                                                                                                                                <option value="4">Coordinador/a de producción</option>
+                                                                                                                                                                <option value="5">Editor/a de sección</option>
+                                                                                                                                                                <option value="6">Editor/a invitado/a</option>
+                                                                                                                                                                <option value="7">Corrector/a de estilo</option>
+                                                                                                                                                                <option value="8">Diseñador/a</option>
+                                                                                                                                                                <option value="9">Coordinador/a de financiación</option>
+                                                                                                                                                                <option value="10">Documentalista</option>
+                                                                                                                                                                <option value="11">Maquetador/a</option>
+                                                                                                                                                                <option value="12">Coordinador/a de marketing y ventas</option>
+                                                                                                                                                                <option value="13">Corrector/a de pruebas</option>
+                                                                                                                                                                <option value="14">Autor/a</option>
+                                                                                                                                                                <option value="15">Traductor/a</option>
+                                                                                                                                                                <option value="16">Revisor/a externo</option>
+                                                                                                                                                                <option value="17">Lector/a</option>
+                                                                                                                                                                <option value="18">Gestor/a de suscripción</option>
+                                                                                                            </select>
+                            </th>
+
+                        
+                        <th>
+                            Mas detalles
+                        </th>
+
+                    </tr></thead>
+                    <tbody>
+                        <form method="POST" id="exportForm"></form>
+                            <input type="hidden" name="selectedValues" value="">
+                            
+                            
+                             
+
+                        
+                        <form method="POST" id="exportForm"></form>
+                            <input type="hidden" name="exportAll" value="1">
+                            
+                        
+                        
+                        
+                <tr>
+                
+                  <td>   
+                    <input type="checkbox" name="exportUser[]" value="1" onclick="updateCheckboxValues(this.value)">
+                  </td>
+
+                  <td>Revistas</td>
+                  <td>Politécnico</td>
+                  <td><p>Colombia</p></td><td>Gestor,Editor,Autor/a,Revisor/a externo,Lector/a</td><td>
+                      <button class="btn btn-warning" type="button" data-toggle="modal" data-target="#myModal1">
+                          <i class="glyphicon glyphicon-eye-open" style="color: black"></i>
+                          
+                      </button>&nbsp;
+                  </td>
+                </tr>
+<tr>
+                
+                  <td>   
+                    <input type="checkbox" name="exportUser[]" value="4" onclick="updateCheckboxValues(this.value)">
+                  </td>
+
+                  <td>Equipo Editorial</td>
+                  <td>Revista Politécnica</td>
+                  <td><p>Colombia</p></td><td>Gestor,Editor,Autor/a,Revisor/a externo,Lector/a</td><td>
+                      <button class="btn btn-warning" type="button" data-toggle="modal" data-target="#myModal4">
+                          <i class="glyphicon glyphicon-eye-open" style="color: black"></i>
+                          
+                      </button>&nbsp;
+                  </td>
+                </tr>
+<tr>
+                
+                  <td>   
+                    <input type="checkbox" name="exportUser[]" value="10" onclick="updateCheckboxValues(this.value)">
+                  </td>
+
+                  <td>Juan Gonzalo</td>
+                  <td>Ardila Marín</td>
+                  <td><p>Colombia</p></td><td>Autor/a,Revisor/a externo</td><td>
+                      <button class="btn btn-warning" type="button" data-toggle="modal" data-target="#myModal10">
+                          <i class="glyphicon glyphicon-eye-open" style="color: black"></i>
+                          
+                      </button>&nbsp;
+                  </td>
+                </tr>
+<tr>
+                
+                  <td>   
+                    <input type="checkbox" name="exportUser[]" value="15" onclick="updateCheckboxValues(this.value)">
+                  </td>
+
+                  <td>Juan Felipe</td>
+                  <td>Vargas Martinez</td>
+                  <td><p>Colombia</p></td><td>Autor/a,Lector/a</td><td>
+                      <button class="btn btn-warning" type="button" data-toggle="modal" data-target="#myModal15">
+                          <i class="glyphicon glyphicon-eye-open" style="color: black"></i>
+                          
+                      </button>&nbsp;
+                  </td>
+                </tr>
+<tr>
+                
+                  <td>   
+                    <input type="checkbox" name="exportUser[]" value="16" onclick="updateCheckboxValues(this.value)">
+                  </td>
+
+                  <td>Darwin Santiago</td>
+                  <td>Aldas</td>
+                  <td><p>Ecuador</p></td><td>Autor/a,Lector/a</td><td>
+                      <button class="btn btn-warning" type="button" data-toggle="modal" data-target="#myModal16">
+                          <i class="glyphicon glyphicon-eye-open" style="color: black"></i>
+                          
+                      </button>&nbsp;
+                  </td>
+                </tr>
+<tr>
+                
+                  <td>   
+                    <input type="checkbox" name="exportUser[]" value="17" onclick="updateCheckboxValues(this.value)">
+                  </td>
+
+                  <td>Andres Daniel</td>
+                  <td>Zapata</td>
+                  <td><p>Colombia</p></td><td>Lector/a</td><td>
+                      <button class="btn btn-warning" type="button" data-toggle="modal" data-target="#myModal17">
+                          <i class="glyphicon glyphicon-eye-open" style="color: black"></i>
+                          
+                      </button>&nbsp;
+                  </td>
+                </tr>
+<tr>
+                
+                  <td>   
+                    <input type="checkbox" name="exportUser[]" value="18" onclick="updateCheckboxValues(this.value)">
+                  </td>
+
+                  <td>Sandra Bibiana</td>
+                  <td>Muriel Ruiz</td>
+                  <td><p>Colombia</p></td><td>Editor de seccion,Autor/a,Revisor/a externo,Lector/a</td><td>
+                      <button class="btn btn-warning" type="button" data-toggle="modal" data-target="#myModal18">
+                          <i class="glyphicon glyphicon-eye-open" style="color: black"></i>
+                          
+                      </button>&nbsp;
+                  </td>
+                </tr>
+<tr>
+                
+                  <td>   
+                    <input type="checkbox" name="exportUser[]" value="19" onclick="updateCheckboxValues(this.value)">
+                  </td>
+
+                  <td>Jorge Alberto</td>
+                  <td>Gómez López</td>
+                  <td><p>Colombia</p></td><td>Editor de seccion</td><td>
+                      <button class="btn btn-warning" type="button" data-toggle="modal" data-target="#myModal19">
+                          <i class="glyphicon glyphicon-eye-open" style="color: black"></i>
+                          
+                      </button>&nbsp;
+                  </td>
+                </tr>
+<tr>
+                
+                  <td>   
+                    <input type="checkbox" name="exportUser[]" value="20" onclick="updateCheckboxValues(this.value)">
+                  </td>
+
+                  <td>William Alberto</td>
+                  <td>Ramirez Silva</td>
+                  <td><p>Colombia</p></td><td>Editor de seccion</td><td>
+                      <button class="btn btn-warning" type="button" data-toggle="modal" data-target="#myModal20">
+                          <i class="glyphicon glyphicon-eye-open" style="color: black"></i>
+                          
+                      </button>&nbsp;
+                  </td>
+                </tr>
+<tr>
+                
+                  <td>   
+                    <input type="checkbox" name="exportUser[]" value="21" onclick="updateCheckboxValues(this.value)">
+                  </td>
+
+                  <td>Ademar</td>
+                  <td>Gonçalves da Costa</td>
+                  <td><p>Brasil</p></td><td>Editor de seccion</td><td>
+                      <button class="btn btn-warning" type="button" data-toggle="modal" data-target="#myModal21">
+                          <i class="glyphicon glyphicon-eye-open" style="color: black"></i>
+                          
+                      </button>&nbsp;
+                  </td>
+                </tr>
+</tbody>
+                </table>
+            </div>
+            <nav aria-label="Page navigation"><ul class="pagination"><li class="active"><a href="">1<span class="sr-only">(current)</span></a></li><li><a href="/index.php/pol/userviewerpoliplugin-list?page=2">2</a></li><li><a href="/index.php/pol/userviewerpoliplugin-list?page=3">3</a></li><li><a href="/index.php/pol/userviewerpoliplugin-list?page=4">4</a></li><li><a href="/index.php/pol/userviewerpoliplugin-list?page=5">5</a></li><li><a href="/index.php/pol/userviewerpoliplugin-list?page=6">6</a></li><li><a href="/index.php/pol/userviewerpoliplugin-list?page=7">7</a></li><li><a href="/index.php/pol/userviewerpoliplugin-list?page=8">8</a></li><li><a href="/index.php/pol/userviewerpoliplugin-list?page=9">9</a></li><li><a href="/index.php/pol/userviewerpoliplugin-list?page=10">10</a></li><li><a href="/index.php/pol/userviewerpoliplugin-list?page=2" aria-label="Next"><span aria-hidden="true">»</span></a></li><li><a href="/index.php/pol/userviewerpoliplugin-list?page=94" aria-label="Next"><span aria-hidden="true">»»</span></a></li></ul></nav>
+            <div>Usuarios mostrados: ∼940</div>
+            </div>
+</div>
+
+	</div><!-- pkp_structure_main -->
+
+									<div class="pkp_structure_sidebar left" role="complementary" aria-label="Barra lateral">
+				<div class="pkp_block block_make_submission">
+	<h2 class="pkp_screen_reader">
+		Enviar un artículo
+	</h2>
+
+	<div class="content">
+		<a class="block_make_submission_link" href="http://localhost/index.php/pol/about/submissions">
+			Enviar un artículo
+		</a>
+	</div>
+</div>
+
+			</div><!-- pkp_sidebar.left -->
+			</div><!-- pkp_structure_content -->
+
+<div class="pkp_structure_footer_wrapper" role="contentinfo">
+	<a id="pkp_content_footer"></a>
+
+	<div class="pkp_structure_footer">
+
+					<div class="pkp_footer_content">
+				<div style="display: table; width: 100%;">
+<div style="display: inline-block; vertical-align: middle; padding: 20px; font-family: monospace;"><strong>Revista Politécnica</strong><br>ISSN: 1900-2351<br>SSN: 2256-5353 (En línea)<br>DOI: <a href="https://doi.org/10.33571/rpolitec">10.33571/rpolitec</a><br>Politécnico Colombiano Jaime Isaza Cadavid, Medellín, Colombia.</div>
+</div>
+<div style="display: block; margin: auto; text-align: center; color: #ffff; font-family: monospace;"><hr><a href="http://www.politecnicojic.edu.co" target="_blank" rel="noopener">politecnicojic.edu.co/</a></div>
+			</div>
+		
+		<div class="pkp_brand_footer" role="complementary">
+			<a href="http://localhost/index.php/pol/about/aboutThisPublishingSystem">
+				<img alt="Más información acerca del sistema de publicación, de la plataforma y del flujo de trabajo de OJS/PKP." src="http://localhost/templates/images/ojs_brand.png">
+			</a>
+		</div>
+	</div>
+</div><!-- pkp_structure_footer_wrapper -->
+
+</div><!-- pkp_structure_page -->
+
+<script src="http://localhost/lib/pkp/lib/vendor/components/jquery/jquery.min.js?v=3.3.0.14" type="text/javascript"></script><script src="http://localhost/lib/pkp/lib/vendor/components/jqueryui/jquery-ui.min.js?v=3.3.0.14" type="text/javascript"></script><script src="http://localhost\plugins/themes/default\js/lib/popper/popper.js?v=3.3.0.14" type="text/javascript"></script><script src="http://localhost\plugins/themes/default\js/lib/bootstrap/util.js?v=3.3.0.14" type="text/javascript"></script><script src="http://localhost\plugins/themes/default\js/lib/bootstrap/dropdown.js?v=3.3.0.14" type="text/javascript"></script><script src="http://localhost\plugins/themes/default\js/main.js?v=3.3.0.14" type="text/javascript"></script><script src="//cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/js/bootstrap.min.js?v=3.3.0.14" type="text/javascript"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js?v=3.3.0.14" type="text/javascript"></script><script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js?v=3.3.0.14" type="text/javascript"></script><script src="//cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.all.min.js?v=3.3.0.14" type="text/javascript"></script><script src="//select2.github.io/select2/select2-3.4.1/select2.js?v=3.3.0.14" type="text/javascript"></script><script src="https://cdn.jsdelivr.net/npm/chart.js?v=3.3.0.14" type="text/javascript"></script><script src="http://localhost/plugins/generic/userViewerPoliPlugin/js/usersListTable.js?v=3.3.0.14" type="text/javascript"></script><script type="text/javascript">
+(function (w, d, s, l, i) { w[l] = w[l] || []; var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
+j.src = 'https://www.googletagmanager.com/gtag/js?id=' + i + dl; f.parentNode.insertBefore(j, f); 
+function gtag(){dataLayer.push(arguments)}; gtag('js', new Date()); gtag('config', i); })
+(window, document, 'script', 'dataLayer', 'UA-171741919-1');
+</script>
+
+  <script>
+    $("#navigationPrimary").append(
+      '<li class><a href="http://localhost/index.php/pol/summariespoliplugin-history">Summaries</a></li>'
+    );
+  </script>
+    <script>
+      $("#navigationPrimary").append(
+        '<li class><a href="http://localhost/index.php/pol/userviewerpoliplugin-list">Users</a></li>'
+      );
+    </script>
+  
+
+
+<div class="modal-backdrop fade in"></div><div class="modal-backdrop fade in"></div></body></html>

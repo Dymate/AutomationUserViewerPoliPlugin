@@ -22,7 +22,7 @@ public class ValidateInformationModal implements Question {
 
         List<String> detailsKeys = Text.of(LIST_DETAILS).viewedBy(actor).asList();
 //
-//        System.out.println("LISTA: " + detailsKeys);
+        System.out.println("LISTA: " + detailsKeys);
 //
 //        String keyPoint = key+":";
 //        System.out.println(keyPoint);
@@ -31,7 +31,7 @@ public class ValidateInformationModal implements Question {
 
         ArrayList<String> valueNew = new ArrayList<>();
 
-        System.out.println("TAMAÑO: " + valueNew.size());
+
 
         for (int i = 0; i < detailsKeys.size(); i++) {
 
@@ -61,11 +61,13 @@ public class ValidateInformationModal implements Question {
                     break;
             }
         }
-
+        System.out.println("TAMAÑO: " + valueNew.size());
+        System.out.println("LISTA NUEVA: " + valueNew);
         int cont = 0;
 
         for (int i = 0; i < detailsKeys.size(); i++) {
-
+            System.out.println("ORIGINAL :" + values.get(i));
+            System.out.println("NUEVO: " + valueNew.get(i));
             if(values.get(i).equals(valueNew.get(i))){
                 cont++;
             }

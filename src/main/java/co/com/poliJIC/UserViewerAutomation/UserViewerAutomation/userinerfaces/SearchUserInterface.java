@@ -27,7 +27,7 @@ public class SearchUserInterface {
 
     public static final Target SELECT_COLOMBIA =
             Target.the("List of countries")
-                    .located(By.xpath("//*[@id=\"country\"]/option[2]"));
+                    .located(By.xpath("//*[@id=\"country\"]/option[20]"));
 
     public static final Target LIST_ROLE =
             Target.the("List of countries")
@@ -35,7 +35,7 @@ public class SearchUserInterface {
 
     public static final Target BTN_DETAILS =
             Target.the("Button for deatils")
-                    .located(By.xpath("(//button[@class=\"btn btn-warning\"])[1]"));
+                    .located(By.xpath("(//button[@class=\"btn btn-warning\"])[2]"));
 
     public static final Target PAGINATION =
             Target.the("Pagination control")

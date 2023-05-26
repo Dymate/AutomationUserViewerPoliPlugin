@@ -32,7 +32,7 @@ Feature: As a user, I need to search a user in the User Viewer Poli Plugin.
     Examples:
       | country   |
       | Colombia  |
-      | Brazil    |
+      | Brasil    |
       | Argentina |
       | Cuba      |
 
@@ -62,7 +62,6 @@ Feature: As a user, I need to search a user in the User Viewer Poli Plugin.
       | university  |
       | Politécnico |
       | UdeA        |
-      | UNAL        |
 
   @EditAcademicDegree
   Scenario Outline: Validate the edition of Academic Degree
@@ -74,8 +73,7 @@ Feature: As a user, I need to search a user in the User Viewer Poli Plugin.
       | academicDegree                     |
       | Ingeniero Informatico              |
       | Doctor en ciencias computacionales |
-      | Docente de catedra                 |
-      | Filosofo                           |
+      | Docente                            |
 
   @EditBiography
   Scenario Outline: Validate the edition of Biography
@@ -102,12 +100,12 @@ Feature: As a user, I need to search a user in the User Viewer Poli Plugin.
   Scenario: Validates keys of details modal
     When the user clicks on the button to view more details
     Then the user sees the information
-      | admin                                                                    |
-      | revistas@elpoli.edu.co                                                   |
-      | CO                                                                       |
-      | UNAL                                                                     |
-      | Filosofo                                                                 |
-      | Administrador del sitio,Gestor,Editor,Autor/a,Revisor/a externo,Lector/a |
+      | admin                                            |
+      | revistas@elpoli.edu.co                           |
+      | CO                                               |
+      | UdeA                                             |
+      | Docente                                          |
+      | Gestor,Editor,Autor/a,Revisor/a externo,Lector/a |
 
 
   @ValidatePaginationControl
@@ -117,18 +115,18 @@ Feature: As a user, I need to search a user in the User Viewer Poli Plugin.
     Then the user validates that the users are from the country
 
     Examples:
-      | country   |
-      | Colombia  |
+      | country  |
+      | Colombia |
 
-    @ValidateUsersFromPagination
-    Scenario Outline: Validate the users from pagination
-      When the user enters the country <country>
-      And the user counts the users from pagination
-      Then user validates the number of users
+  @ValidateUsersFromPagination
+  Scenario Outline: Validate the users from pagination
+    When the user enters the country <country>
+    And the user counts the users from pagination
+    Then user validates the number of users
 
-      Examples:
-        | country   |
-        | Colombia  |
+    Examples:
+      | country  |
+      | Colombia |
 
   @ValidateExportButton
   Scenario: Validate the export button for generate excel

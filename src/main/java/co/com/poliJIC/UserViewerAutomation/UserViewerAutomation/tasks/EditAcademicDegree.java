@@ -12,8 +12,7 @@ import static co.com.poliJIC.UserViewerAutomation.UserViewerAutomation.userinerf
 import static co.com.poliJIC.UserViewerAutomation.UserViewerAutomation.userinerfaces.ModalDetails.INPUT_UNIVERSITY;
 import static co.com.poliJIC.UserViewerAutomation.UserViewerAutomation.userinerfaces.SearchUserInterface.BTN_DETAILS;
 
-public class EditAcademicDegree implements Task
-{
+public class EditAcademicDegree implements Task {
 
     private String academicDegree;
 
@@ -34,7 +33,9 @@ public class EditAcademicDegree implements Task
                 Click.on(BTN_UPDATE_2),
                 WaitUntil.the(BTN_DETAILS, WebElementStateMatchers.isVisible())
                         .forNoMoreThan(70).seconds(),
-                Click.on(BTN_DETAILS)
+                Click.on(BTN_DETAILS),
+                WaitUntil.the(BTN_PENCIL_2, WebElementStateMatchers.isVisible())
+                        .forNoMoreThan(70).seconds()
         );
         actor.remember("oldAcademicDegree", academicDegree);
     }

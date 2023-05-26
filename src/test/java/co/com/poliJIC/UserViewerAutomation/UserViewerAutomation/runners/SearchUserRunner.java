@@ -9,8 +9,7 @@ import org.junit.runner.RunWith;
 @RunWith(CucumberWithSerenity.class)
 @CucumberOptions(features = "src/test/resources/features/searchUser.feature",
         glue = "co.com.poliJIC.UserViewerAutomation.UserViewerAutomation.stepdefinitions",
-        snippets = SnippetType.CAMELCASE,
-        tags = "@ValidateExcelReport"
+        snippets = SnippetType.CAMELCASE
 )
 
 public class SearchUserRunner {

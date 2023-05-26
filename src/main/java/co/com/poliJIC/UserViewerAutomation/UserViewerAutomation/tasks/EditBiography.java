@@ -33,7 +33,9 @@ public class EditBiography implements Task {
                 Click.on(BTN_UPDATE_3),
                 WaitUntil.the(BTN_DETAILS, WebElementStateMatchers.isVisible())
                         .forNoMoreThan(70).seconds(),
-                Click.on(BTN_DETAILS)
+                Click.on(BTN_DETAILS),
+                WaitUntil.the(BTN_PENCIL_3, WebElementStateMatchers.isVisible())
+                        .forNoMoreThan(70).seconds()
         );
         actor.remember("oldBiography", biography);
     }
